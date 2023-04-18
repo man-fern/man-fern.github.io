@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yuichiro Waki"
+title                    : "Manuel Fernández Sierra"
 title_separator          : "-"
-name                     : &name "Yuichiro Waki"
+name                     : &name "Manuel Fernández Sierra"
 description              : &description "Associate Professor of Economics, Aoyama Gakuin University"
 url                      : https://ywaki-econ.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
