@@ -1,14 +1,19 @@
-# main links
+# main links links
 main:
-  - title: "Publications"
-    url: /publications/
-  - title: "Talks"
-    url: /talks/
-  - title: "Teaching"
-    url: /teaching/
-  - title: "Code"
-    url: /code/
+  - title: "Research"
+    url: /research/
+    
   - title: "CV"
     url: /cv/
-  - title: "Contact"
-    url: /contact/
+    
+  - title: "日本語"
+    url: /about_jp/
+
+  - title: "推薦状について"
+    url: /referenceletter/
+
+  - title: "学部ゼミ"
+    url: /undergradseminar/
+
+  - title: "Blog Posts"
+    url: /year-archive/
