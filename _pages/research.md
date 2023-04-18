@@ -10,6 +10,7 @@ redirect_from:
 <hr>
 
 ## Publications and Accepted Papers
+
 1. <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;"> <u>Herding in Equity Crowdfunding</u></a> (with T. Astebro, S. Lovo and N. Vulkan) *The RAND Journal of Economics*, forthcoming.
    
 2. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387818304905" style="color: black;"> <u>Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America</u></a> (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
@@ -22,12 +23,15 @@ redirect_from:
 
 <hr>
 
+## Chapters in Books
+
+* <a href="https://www.jstor.org/stable/10.7440/j.ctt1g0b7ps" style="color: black;"> <u>Dinámicas Provinciales de Pobreza en Colombia 1993-2005</u></a> (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
+
+* <a href="https://www.emerald.com/insight/publication/doi/10.1108/S0147-9121201541" style="color: black;"> <u>The Right Tail and the Right Tale: Women and Skill in Mexico</u></a> (with S. Bhalotra and A. Venkataramani). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
+
+<hr>
+
 ## Working Papers
-* "Commitment vs. Flexibility in New Keynesian Models," draft coming soon.
-* [**"Generational War on Inflation: Optimal Inflation Rates for the Young and the Old,"**](https://www.dallasfed.org/~/media/documents/institute/wpapers/2019/0372.pdf) with Ippei Fujiwara and Shunsuke Hori.
-  * The Federal Reserve Bank of Dallas Globalization Institute Working Paper No. 372.    
-* [**"Computing Dynamic Optimal Mechanisms When Hidden Types Are Markov,"**](/files/Fukushima_Waki.pdf) with Kenichi Fukushima, 2011. 
-  * [Extension with hidden actions](/files/Fukushima_Waki_extension_hidden_actions.pdf)
-* [**"On the Size of the Fiscal Multiplier When the Nominal Interest Rate is Zero,"**](/files/Braun_Waki_2010.pdf) with R. Anton Braun, 2010.   
-  * [Online Appendix](/files/Braun_Waki_2010_Appendix.pdf). 
+
+* 
 
