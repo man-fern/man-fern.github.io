@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yuichiro Waki"
+  name             : "Manuel Fernández Sierra"
   avatar           : "profile.png"
-  bio              : "Associate Professor of Economics, Aoyama Gakuin University"
-  location         : "Tokyo"
-  employer         : "Aoyama Gakuin University"
+  bio              : "Assistant Professor of Economics, Universidad de los Andes"
+  location         : "Bogotá, Colombia"
+  employer         : "Universidad de los Andes"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=efRzRDgAAAAJ"
-  email            : "ywakiecon[atmark]gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.co.uk/citations?user=K42G0lIAAAAJ&hl=en"
+  email            : "man-fern[atmark]uniandes.edu.com"
+  researchgate     : "https://www.researchgate.net/profile/Manuel-Fernandez-Sierra"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ywaki-econ"
+  github           : "man-fern"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1929-3520"
+  orcid            : "https://orcid.org/0000-0002-6447-6337"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/ManuelFerSier"
   vine             :
   weibo            :
   xing             :
