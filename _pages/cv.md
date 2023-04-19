@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: " "
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -58,7 +58,7 @@ Publications and Accepted Papers
 
 * Fernández, M., Ibáñez, A. M. and Peña, X. (2014) Adjusting the Labor Supply to Mitigate Violent Shocks: Evidence from Rural Colombia. *The Journal of Development Studies*, 50(8), pp.1135-1155.
 
-* Fernández, M. (2012) Violencia y Derechos de Propiedad: El Caso de \textit{La Violencia} en Colombia. *Ensayos Sobre Pol\'{i}tica Económica*, 30(69), pp.113-147. 
+* Fernández, M. (2012) Violencia y Derechos de Propiedad: El Caso de *La Violencia* en Colombia. *Ensayos Sobre Política Económica*, 30(69), pp.113-147. 
 
 Professional Activities
 ======
