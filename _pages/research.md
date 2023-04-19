@@ -25,7 +25,7 @@ redirect_from:
 
 ## Book Chapters
 
-* <a href="https://www.asobancaria.com/wp-content/uploads/2022/08/Lecturas_Sobre_Moneda_y_Banca_en_Colombia_2022.pdf" style="color: black;"> Productividad de los bancos</a> (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
+* <a href="https://www.asobancaria.com/wp-content/uploads/2022/08/Lecturas_Sobre_Moneda_y_Banca_en_Colombia_2022.pdf" style="color: black;">Productividad de los bancos</a> (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
 
 * <a href="https://www.jstor.org/stable/10.7440/j.ctt1g0b7ps" style="color: black;"> Dinámicas Provinciales de Pobreza en Colombia 1993-2005</a> (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
 
