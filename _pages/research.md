@@ -33,13 +33,17 @@ redirect_from:
 
 ## Working Papers
 
-* <a href="https://fanwangecon.github.io/assets/BhalotraFernandezWangMexicoFLFP.pdf" style="color: black;">The rise in women's labour force participation in Mexico- supply vs demand factors</a> (with S. Bhalotra) *Conditionally accepted* in World Bank Economic Review. 
+* <a href="https://www.wider.unu.edu/publication/rise-women%E2%80%99s-labour-force-participation-mexico" style="color: black;">The rise in women's labour force participation in Mexico- supply vs demand factors</a> (with S. Bhalotra) *Conditionally accepted* in World Bank Economic Review. 
 
 * <a href="https://fanwangecon.github.io/assets/BhalotraFernandezWangMexicoFLFP.pdf" style="color: black;"> The Distribution of the Gender Wage Gap: An Equilibrium Model</a> (with S. Bhalotra and F. Wang) *Revise and Resubmit*. 
 
-* <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> The Right to Health and the Health Effects of Denials</a> (with S. Bhalotra) *Revise requested*. 
+* <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> The Right to Health and the Health Effects of Denials</a> (with S. Bhalotra) *Revision requested*.
 
-* <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> Occupation Flexibility and the Gender Wage Gap in the UK</a> (with L. Benny, S. Bhalotra and F. Wang)
+* <a href="https://repositorio.uniandes.edu.co/handle/1992/58838" style="color: black;"> New Perspectives on Inequality in Latin America</a> (with G. Serrano) *Revision requested*.
+
+* <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3892487" style="color: black;"> The Natural Resource Boom and The Uneven Fall of The Labor Share</a> (with A. O. Dávila and H. Zuleta).
 
 
+* <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> Occupation Flexibility and the Gender Wage Gap in the UK</a> (with L. Benny, S. Bhalotra and F. Wang).
 
+* <a href="https://www.iza.org/publications/dp/14095/coronavirus-and-social-distancing-do-non-pharmaceutical-interventions-work-at-least-in-the-short-run" style="color: black;"> Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?</a> (with D. Bardey and A. Gravel).
