@@ -11,7 +11,7 @@ redirect_from:
 
 ## Publications and Accepted Papers
 
-* <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*, forthcoming.
+* <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
    
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387818304905" style="color: black;">Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America</a> (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
