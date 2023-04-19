@@ -7,6 +7,10 @@ redirect_from:
   - /teaching
 ---
 
+## Horarios de atención
+
+Reservar un espacio en el siguiente <a href="https://calendly.com/manuelfsb" style="color: blue;">enlace</a>
+
 ## Teaching
 
 * (Lecturer) Advanced Econometrics, Universidad de los Andes. 2020-present.
