@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<hr>
+
 Contact Information
 ======
 * **Address**: Department of Economics, Universidad de los Andes, Calle 19A No 1-37 Este, W-913, Bogotá, Colombia.

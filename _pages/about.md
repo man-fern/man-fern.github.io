@@ -12,4 +12,4 @@ Welcome to my website! I am an Assistant Professor at the Department of Economic
 
 [CV](/files/CV-Manuel-Fernandez.pdf)
 
-**Email:*** <man-fern@uniandes.edu.co>
+**Email:** <man-fern@uniandes.edu.co>
