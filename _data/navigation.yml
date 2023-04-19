@@ -6,8 +6,8 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "日本語"
-    url: /about_jp/
+  - title: "Teaching"
+    url: /teaching/
 
   - title: "推薦状について"
     url: /referenceletter/
