@@ -23,7 +23,7 @@ redirect_from:
 
 <hr>
 
-## Books Chapters
+## Book Chapters
 
 * <a href="https://www.jstor.org/stable/10.7440/j.ctt1g0b7ps" style="color: black;"> Dinámicas Provinciales de Pobreza en Colombia 1993-2005</a> (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
 
