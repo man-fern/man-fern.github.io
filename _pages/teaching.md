@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /teaching/
 title: "Teaching"
-excerpt: "About me"
+permalink: /teaching/
+author_profile: true
 redirect_from:
   - /teaching
 
