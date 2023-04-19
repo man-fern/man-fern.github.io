@@ -17,12 +17,6 @@ Contact Information
 Current Position
 ======
 * Assistant Professor, Department of Economics, Universidad de los Andes, 2019-present.
-* Research Affiliate, Institute of Labor Economics (IZA), 2018-present.
-
-Previous Positions
-======
-* Senior Research Officer, Institute for Social and Economic Research (ISER) and The Human Rights Centre, University of Essex, UK, 2017-2019.
-* Extended-Term Consultant, Office of the Chief Economist for Latin America, The World Bank.
 
 Education
 ======
@@ -31,20 +25,17 @@ Education
 * M.Sc.,   Economics, Universidad de los Andes, 2011
 * B.A., Economics,  Universidad de los Andes, 2008 
 
-Grants, Fellowships, and Awards
-======
-* Invited to participate in the 70th Lindau Nobel Laureate Meetings as one of 373 young economists selected from 60 countries, 2020
-* Labor Share and lnequality in Latin America and the Caribbean (US\$ 20,000), Inter-American Development Bank - IADB, 2019
-* Research Engagement Fund (\pounds 10,000), Global Challenges Research Fund (GCRF), University of Essex, 2019, 2020
-* Final-Year Departmental Doctoral Bursary and Graduate Teaching Assistantship. University of Oxford, 2016-2017
-* Economics Department Doctoral Studentship, University of Oxford, 2014-2016
-
 Teaching Experience
 ======
 * (Lecturer) Advanced Econometrics, Universidad de los Andes. 2020-present.
 * (Lecturer) Introductory Macroeconomics, Universidad de los Andes. 2022-present.
-* (Lecturer) M.Sc. Thesis Seminar, Universidad de los Andes. \hfill 2019, 2020. 
+* (Lecturer) M.Sc. Thesis Seminar, Universidad de los Andes. 2019, 2020. 
 * (Lecturer) Econometrics I, Universidad de los Andes. 2015.
+
+Previous Positions
+======
+* Senior Research Officer, Institute for Social and Economic Research (ISER) and The Human Rights Centre, University of Essex, UK, 2017-2019.
+* Extended-Term Consultant, Office of the Chief Economist for Latin America, The World Bank.
 
 Publications and Accepted Papers
 ======
@@ -64,6 +55,14 @@ Professional Activities
 ======
 * **Referee for**
   * Economic Development and Cultural Change, European Economic Review, Journal of Applied Econometrics, Journal of Applied Economics, Journal of Development Studies, Journal of Labor Economics, Latin American Economic Review, Management Science, Oxford Bulletin of Economics and Statistics, Review of Economics of the Household
+
+Grants, Fellowships, and Awards
+======
+* Invited to participate in the 70th Lindau Nobel Laureate Meetings as one of 373 young economists selected from 60 countries, 2020
+* Labor Share and lnequality in Latin America and the Caribbean (US\$ 20,000), Inter-American Development Bank - IADB, 2019
+* Research Engagement Fund (\pounds 10,000), Global Challenges Research Fund (GCRF), University of Essex, 2019, 2020
+* Final-Year Departmental Doctoral Bursary and Graduate Teaching Assistantship. University of Oxford, 2016-2017
+* Economics Department Doctoral Studentship, University of Oxford, 2014-2016
 
 * **Seminar and conference presentations**
 * VII Congreso de Economía Colombiana, Bogotá, 2022.
