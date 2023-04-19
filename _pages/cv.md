@@ -66,7 +66,8 @@ Grants, Fellowships, and Awards
 * Final-Year Departmental Doctoral Bursary and Graduate Teaching Assistantship. University of Oxford, 2016-2017
 * Economics Department Doctoral Studentship, University of Oxford, 2014-2016
 
-* **Seminar and conference presentations**
+Seminar and conference presentations
+======
 * VII Congreso de Economía Colombiana, Bogotá, 2022.
 * Universidad de los Andes. Seminario de Políticas Públicas (virtual), 2021.
 * UNU-WIDER (virtual), 2021.
