@@ -13,7 +13,7 @@ redirect_from:
 
 * <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
   
-* <a href="https://www.wider.unu.edu/publication/rise-women%E2%80%99s-labour-force-participation-mexico" style="color: black;">The rise in women's labour force participation in Mexico- supply vs demand factors</a> (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. 
+* [The rise in women's labour force participation in Mexico- supply vs demand factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. 
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387818304905" style="color: black;">Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America</a> (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
