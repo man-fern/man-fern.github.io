@@ -12,7 +12,9 @@ redirect_from:
 ## Publications and Accepted Papers
 
 * <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
-   
+  
+* <a href="https://www.wider.unu.edu/publication/rise-women%E2%80%99s-labour-force-participation-mexico" style="color: black;">The rise in women's labour force participation in Mexico- supply vs demand factors</a> (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. 
+
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0304387818304905" style="color: black;">Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America</a> (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S2352673416300026" style="color: black;">Equity Crowdfunding: A New Phenomena</a> (with T. Astebro and N. Vulkan) *Journal of Business Venturing Insights* (2016) Volume 5, pp 37-49.
@@ -34,8 +36,6 @@ redirect_from:
 <hr>
 
 ## Working Papers
-
-* <a href="https://www.wider.unu.edu/publication/rise-women%E2%80%99s-labour-force-participation-mexico" style="color: black;">The rise in women's labour force participation in Mexico- supply vs demand factors</a> (with S. Bhalotra) *Conditionally accepted* in World Bank Economic Review. 
 
 * <a href="https://fanwangecon.github.io/assets/BhalotraFernandezWangMexicoFLFP.pdf" style="color: black;"> The Distribution of the Gender Wage Gap: An Equilibrium Model</a> (with S. Bhalotra and F. Wang) *Revise and Resubmit*. 
 
