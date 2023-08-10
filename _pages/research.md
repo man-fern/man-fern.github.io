@@ -37,9 +37,9 @@ redirect_from:
 
 ## Working Papers
 
-* <a href="https://fanwangecon.github.io/assets/BhalotraFernandezWangMexicoFLFP.pdf" style="color: black;"> The Distribution of the Gender Wage Gap: An Equilibrium Model</a> (with S. Bhalotra and F. Wang) *Revise and Resubmit*. 
+* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit*. 
 
-* <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> The Right to Health and the Health Effects of Denials</a> (with S. Bhalotra) *Revision requested*.
+* [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) *Revision requested*.
 
 * <a href="https://repositorio.uniandes.edu.co/handle/1992/58838" style="color: black;"> New Perspectives on Inequality in Latin America</a> (with G. Serrano) *Revision requested*.
 
