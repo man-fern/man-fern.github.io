@@ -49,4 +49,4 @@ redirect_from:
 
 * <a href="https://fanwangecon.github.io/assets/UK_Flexibility_Gender_Wage_Gap.pdf" style="color: black;"> Occupation Flexibility and the Gender Wage Gap in the UK</a> (with L. Benny, <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a> and <a href="https://fanwangecon.github.io/" style="color: black; text-decoration: none;">F. Wang</a>).
 
-* <a href="https://www.iza.org/publications/dp/14095/coronavirus-and-social-distancing-do-non-pharmaceutical-interventions-work-at-least-in-the-short-run" style="color: black;"> Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?</a> (with D. Bardey and A. Gravel).
+* <a href="https://www.iza.org/publications/dp/14095/coronavirus-and-social-distancing-do-non-pharmaceutical-interventions-work-at-least-in-the-short-run" style="color: black;"> Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?</a> (with <a href="https://sites.google.com/site/davidbardey/" style="color: black; text-decoration: none;">D. Bardey</a> and A. Gravel).
