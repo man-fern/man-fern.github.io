@@ -11,7 +11,7 @@ redirect_from:
 
 ## Publications and Accepted Papers
 
-* <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/astebro-thomas)" style="color: black; text-decoration: none;">T. Astebro</a>, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
+* <a href="https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf" style="color: black;">Herding in Equity Crowdfunding</a> (with <a href="https://www.hec.edu/en/faculty-research/faculty-directory/faculty-member/astebro-thomas" style="color: black; text-decoration: none;">T. Astebro</a>, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
   
 * [The Rise in Women's Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. [Data and Code](https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication)
 
