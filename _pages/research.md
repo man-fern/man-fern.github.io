@@ -27,11 +27,11 @@ redirect_from:
 
 ## Book Chapters
 
-* <a href="https://www.asobancaria.com/wp-content/uploads/2022/08/Lecturas_Sobre_Moneda_y_Banca_en_Colombia_2022.pdf" style="color: black;">Productividad de los bancos</a> (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
+* <a href="https://www.asobancaria.com/wp-content/uploads/2022/08/Lecturas_Sobre_Moneda_y_Banca_en_Colombia_2022.pdf" style="color: black;">Productividad de los bancos</a> (with D. Pérez-Reyna and <a href="https://economia.uniandes.edu.co/zuleta" style="color: black; text-decoration: none;">H. Zuleta</a>). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
 
 * <a href="https://www.jstor.org/stable/10.7440/j.ctt1g0b7ps" style="color: black;"> Dinámicas Provinciales de Pobreza en Colombia 1993-2005</a> (with <a href="http://www.anamariaibanez.net/" style="color: black; text-decoration: none;">A. M.  Ibáñez</a>, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
 
-* <a href="https://www.emerald.com/insight/publication/doi/10.1108/S0147-9121201541" style="color: black;"> The Right Tail and the Right Tale: Women and Skill in Mexico</a> (with <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a> and A. Venkataramani). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
+* <a href="https://www.emerald.com/insight/publication/doi/10.1108/S0147-9121201541" style="color: black;"> The Right Tail and the Right Tale: Women and Skill in Mexico</a> (with <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a> and <a href="https://sites.google.com/site/atheendar/home" style="color: black; text-decoration: none;">A. Venkataramani</a>). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
 
 <hr>
 
