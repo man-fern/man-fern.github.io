@@ -37,7 +37,7 @@ redirect_from:
 
 ## Working Papers
 
-* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a> and <a href="https://fanwangecon.github.io/" style="color: black; text-decoration: none;">F. Wang</a>) *Revise and Resubmitt, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/)
+* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a> and <a href="https://fanwangecon.github.io/" style="color: black; text-decoration: none;">F. Wang</a>) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/)
 
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with <a href="https://sites.google.com/site/srbhalotra/" style="color: black; text-decoration: none;">S. Bhalotra</a>) *Revision requested*.
 
