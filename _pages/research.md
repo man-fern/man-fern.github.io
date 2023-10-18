@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications and Accepted Papers
 
-* [Herding in Equity Crowdfunding](`https://people.hec.edu/lovo/wp-content/uploads/sites/28/2023/01/Herding_Equity_Crowdfunding-4.pdf`) (with T. Astebro, S. Lovo and N. Vulkan `</a>`) Forthcoming in *The RAND Journal of Economics*.
+* [Herding in Equity Crowdfunding](/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf){: style="color:black; text-decoration: underline;"} (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
 * [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. [Data and Code](https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication)
 * Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 * Equity Crowdfunding: A New Phenomena (with T. Astebro and N. Vulkan) *Journal of Business Venturing Insights* (2016) Volume 5, pp 37-49.
