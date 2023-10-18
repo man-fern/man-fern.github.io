@@ -12,10 +12,10 @@ redirect_from:
 
 * [Herding in Equity Crowdfunding](/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf){: style="color:black; text-decoration: underline;"} (with T. Astebro, S. Lovo and N. Vulkan) Forthcoming in *The RAND Journal of Economics*.
 * [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) Forthcoming in *World Bank Economic Review*. [Data and Code](https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication)
-* Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
-* Equity Crowdfunding: A New Phenomena (with T. Astebro and N. Vulkan) *Journal of Business Venturing Insights* (2016) Volume 5, pp 37-49.
-* Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia (with A. M.  Ibáñez and X. Peña) *The Journal of Development Studies* (2014) 50(8), pp.1135-1155.
-* Violencia y Derechos de Propiedad: El Caso de *La Violencia* en Colombia `</a>` *Ensayos Sobre Política Económica* (2012) 30(69), pp.113-147.
+* [Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America](https://www.sciencedirect.com/science/article/abs/pii/S0304387818304905?via%3Dihub){: style="color:black; text-decoration: underline;"} (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
+* [Equity Crowdfunding: A New Phenomena](https://www.sciencedirect.com/science/article/abs/pii/S2352673416300026){: style="color:black; text-decoration: underline;"} (with T. Astebro and N. Vulkan) *Journal of Business Venturing Insights* (2016) Volume 5, pp 37-49.
+* [Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia](https://www.tandfonline.com/doi/abs/10.1080/00220388.2014.919384){: style="color:black; text-decoration: underline;"} (with A. M.  Ibáñez and X. Peña) *The Journal of Development Studies* (2014) 50(8), pp.1135-1155.
+* [Violencia y Derechos de Propiedad: El Caso de *La Violencia* en Colombia](/files/Fernandez-Violencia-derechos-propiedad.pdf){: style="color:black; text-decoration: underline;"} *Ensayos Sobre Política Económica* (2012) 30(69), pp.113-147.
 
 <hr>
 
@@ -33,6 +33,6 @@ redirect_from:
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/)
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra) *Revision requested*.
 * The Natural Resource Boom and The Uneven Fall of The Labor Share (with A. O. Dávila and H. Zuleta).
-* Políticas para la Reactivación de la Demanda Laboral ante la Crisis del COVID-19: Revisión Sistemática de la Literatura `</a>` (with S. González and A. Rosero). Documento de Coyuntura, Misión de Empleo, (2021)
+* Políticas para la Reactivación de la Demanda Laboral ante la Crisis del COVID-19: Revisión Sistemática de la Literatura (with S. González and A. Rosero). Documento de Coyuntura, Misión de Empleo, (2021)
 * Occupation Flexibility and the Gender Wage Gap in the UK (with L. Benny, S. Bhalotra and F. Wang).
 * Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run? (with D. Bardey  and A. Gravel).
