@@ -22,7 +22,7 @@ redirect_from:
 
 ## Policy Briefs
 
-* [La reforma laboral y las necesidades del mercado laboral colombiano](https://economia.uniandes.edu.co/publicaciones/nota-macro-51-la-reforma-laboral-y-necesidades-del-mercado-laboral-colombian){: style="color:black; text-decoration: underline;"} (with O. Becerra, G. Bojanini and M. Eslava) in *Nota Macroeconómica # 46*, 2023.`
+* [La reforma laboral y las necesidades del mercado laboral colombiano](https://economia.uniandes.edu.co/publicaciones/nota-macro-51-la-reforma-laboral-y-necesidades-del-mercado-laboral-colombiano){: style="color:black; text-decoration: underline;"} (with O. Becerra, G. Bojanini and M. Eslava) in *Nota Macroeconómica # 46*, 2023.
 * [Renta ciudadana, política laboral y economía popular en el Plan Nacional de Desarrollo](https://economia.uniandes.edu.co/publicaciones/renta-ciudadana-politica-laboral-economia-popular-en-pn){: style="color:black; text-decoration: underline;"} (with A. Álvarez, O. Becerra and M. Eslava) in *Nota Macroeconómica # 46*, 2023.
 * [El mercado laboral en Colombia: diagnóstico y recomendaciones para un funcionamiento más equitativo y eficiente](https://repositorio.uniandes.edu.co/handle/1992/5662){: style="color:black; text-decoration: underline;"} (with M. Eslava) in *Nota Macroeconómica # 36*, 2022.
 * [Empleo femenino durante la crisis del COVID-19, in Nota Macroeconómica](https://repositorio.uniandes.edu.co/bitstream/handle/1992/47881/nota-macroeconomica-28.pd){: style="color:black; text-decoration: underline;"} (with O. Becerra, M. Eslava, M. Isaacs and D.  Perez-Reyna) in *Nota Macroeconómica # 28*, 2020.
