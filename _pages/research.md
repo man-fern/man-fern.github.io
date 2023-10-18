@@ -21,10 +21,10 @@ redirect_from:
 
 ## Book Chapters
 
-* [Earnings Inequality in Latin America: A Three-Decade Retrospective](/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective.pdf){: style="color:black; text-decoration: underline;"} (with G. Serrano){: style="color:black; text-decoration: underline;"}. Forthcoming in *Oxford Research Encyclopedia of Economics and Finance*. Oxford University Press.
+* [Earnings Inequality in Latin America: A Three-Decade Retrospective](/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective.pdf){: style="color:black; text-decoration: underline;"} (with G. Serrano). Forthcoming in *Oxford Research Encyclopedia of Economics and Finance*. Oxford University Press.
 * [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){: style="color:black; text-decoration: underline;"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
 * [Dinámicas Provinciales de Pobreza en Colombia 1993-2005](/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf){: style="color:black; text-decoration: underline;"} (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
-* [The Right Tail and the Right Tale: Women and Skill in Mexico](/files/Bhalotra-Fernandez-Right-tail-and-the-right-tale.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and A. Venkataramani){: style="color:black; text-decoration: underline;"}. In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
+* [The Right Tail and the Right Tale: Women and Skill in Mexico](/files/Bhalotra-Fernandez-Right-tail-and-the-right-tale.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and A. Venkataramani). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
 
 <hr>
 
