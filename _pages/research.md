@@ -21,6 +21,7 @@ redirect_from:
 
 ## Book Chapters
 
+* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](/files/Bardey-Fernandez-Gravel-Corobavirus-and-social-distancing.pdf){: style="color:black; text-decoration: underline;"} (with D. Bardey  and A. Gravel) Forthcoming, *Handbook on Inequality and COVID-19*.
 * [Earnings Inequality in Latin America: A Three-Decade Retrospective](/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective.pdf){: style="color:black; text-decoration: underline;"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
 * [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){: style="color:black; text-decoration: underline;"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
 * [Dinámicas Provinciales de Pobreza en Colombia 1993-2005](/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf){: style="color:black; text-decoration: underline;"} (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
@@ -31,9 +32,8 @@ redirect_from:
 ## Working Papers
 
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/){: style="color:black; text-decoration: underline;"}
-* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](/files/Bardey-Fernandez-Gravel-Corobavirus-and-social-distancing.pdf){: style="color:black; text-decoration: underline;"} (with D. Bardey  and A. Gravel) Conditionally accepted, *Handbook on Inequality and COVID-19*.
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra).
 * [The Natural Resource Boom and The Uneven Fall of The Labor Share](/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf){: style="color:black; text-decoration: underline;"} (with A. O. Dávila and H. Zuleta).
+* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
 * [Políticas para la Reactivación de la Demanda Laboral ante la Crisis del COVID-19: Revisión Sistemática de la Literatura](/files/Fernandez-Gonzalez-Rosero-Reactivacion-demanda-laboral.pdf){: style="color:black; text-decoration: underline;"} (with S. González and A. Rosero). Documento de Coyuntura, Misión de Empleo, (2021).
 * [Occupation Flexibility and the Gender Wage Gap in the UK](/files/Benny-Bhalotra-Fernandez-Wang-Occupation-flexibility.pdf){: style="color:black; text-decoration: underline;"} (with L. Benny, S. Bhalotra and F. Wang).
-* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
