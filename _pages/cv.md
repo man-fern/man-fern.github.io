@@ -45,8 +45,6 @@ Publications and Accepted Papers
 
 * Fernández, M. and Messina, J. (2018) Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America. *Journal of Development Economics*, 135, pp. 555-573. 
 
-* Fernández, M. and Messina, J. (2018) Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America. *Journal of Development Economics*, 135, pp. 555-573. 
-
 * Vulkan, N., Astebro, T. and Fernández, M. (2016) Equity Crowdfunding: A New Phenomena. *Journal of Business Venturing Insights*,  Volume 5, pp 37-49.     
 
 * Fernández, M., Ibáñez, A. M. and Peña, X. (2014) Adjusting the Labor Supply to Mitigate Violent Shocks: Evidence from Rural Colombia. *The Journal of Development Studies*, 50(8), pp.1135-1155.
