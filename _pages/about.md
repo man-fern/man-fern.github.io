@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am an Assistant Professor at the [Department of Economics](https://economia.uniandes.edu.co/en) at Universidad de los Andes, as well as a Research Fellow at the Institute of Labor Economics (IZA). My research focuses on labor and health economics, with a regional emphasis on Latin America. I have a PhD in economics from Oxford University.
+**Welcome!** I'm an Assistant Professor in the [Department of Economics](https://economia.uniandes.edu.co/en) at Universidad de los Andes and a Research Fellow at the Institute of Labor Economics (IZA). My research centers on labor, development, and health economics, with a regional focus on Latin America. I hold a Ph.D. in Economics from Oxford University.
 
 [CV](/files/CV-Manuel-Fernandez.pdf)
 
