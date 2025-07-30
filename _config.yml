@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Manuel Fernández - Economist at Universidad de los Andes"
+title                    : "Manuel Fernández Sierra - Economist at Universidad de los Andes"
 title_separator          : "-"
 name                     : &name "Manuel Fernández"
-description              : &description "Assistant Professor of Economics, Universidad de los Andes"
+description              : &description "Official website of Manuel Fernández Sierra, Assistant Professor of Economics at Universidad de los Andes and Research Fellow at IZA, specializing in labor and health economics in Latin America."
 url                      : https://man-fern.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
