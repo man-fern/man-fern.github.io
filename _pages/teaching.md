@@ -7,9 +7,9 @@ redirect_from:
   - /teaching
 ---
 
-## Horarios de atención
+## Office Hours
 
-Reservar un espacio en el siguiente <a href="https://calendly.com/manuelfsb" style="color: blue;">enlace</a>
+Book a slot at the following <a href="https://calendly.com/manuelfsb" style="color: blue;">link</a>
 
 ## Teaching
 
