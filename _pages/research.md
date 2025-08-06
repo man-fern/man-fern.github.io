@@ -33,7 +33,7 @@ redirect_from:
 
 * Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
   
-* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:black;text-decoration:underline"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
+* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
   
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
@@ -41,8 +41,6 @@ redirect_from:
       <p><strong>Abstract:</strong> Illegal economies are commonly viewed as barriers to development and sources of violence. This study challenges that view by showing that illegal markets can generate broader economic and social benefits without necessarily increasing violence. We examine the economic and socio-environmental impacts of the 2010s coca cultivation surge in Colombia—the producer of two-thirds of the global coca and cocaine supply—using a difference-in-differences strategy that leverages a policy announcement that created incentives to expand coca cultivation in some municipalities, combined with nighttime lights as a proxy for economic activity. We find that the coca boom increased annual municipal GDP by 2.8% to 10.5%, with an estimated GDP multiplier of 1.45. Despite a 250% rise in coca cultivation, we find no evidence of increased violence. Suggestive evidence indicates improvements in youth educational outcomes. However, the income shock did not lead to higher tax revenues or improvements in public goods provision. Moreover, the economic expansion raised deforestation rates by 77.5%, underscoring the long-term environmental costs of the coca boom.</p>
     </blockquote>
   </details>
-
-  
 
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/){: style="color:black; text-decoration: underline;"}
   
