@@ -29,7 +29,7 @@ redirect_from:
 
 <hr>
 
-## Working Papers
+## Working in Progress
 
 * [Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){: style="color:black; text-decoration: underline;"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
 * [Coca-Based Local Growth and Its Socio Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){: style="color:black; text-decoration: underline;"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González and P. Murillo-Sandoval) *Under revision, Journal of Development Economics*
