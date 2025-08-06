@@ -33,7 +33,7 @@ redirect_from:
 
 * Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
   
-* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
+* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
   
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
