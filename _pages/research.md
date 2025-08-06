@@ -35,7 +35,7 @@ redirect_from:
   
 * [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:black;text-decoration:underline"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
   
-    <details style="display:inline-block;margin-left:1.5rem;margin-top:0.2em;">
+    <details style="display:inline-block;margin-left:1.5rem;margin-top:-1.2em;">
       <summary>Abstract</summary>
       <blockquote>
         <p><strong>Abstract:</strong> …</p>
