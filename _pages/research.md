@@ -31,7 +31,7 @@ redirect_from:
 
 ## Working in Progress
 
-* [Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){: style="color:black; text-decoration: underline;"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
+* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
 * [Coca-Based Local Growth and Its Socio Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){: style="color:black; text-decoration: underline;"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González and P. Murillo-Sandoval) *Under revision, Journal of Development Economics*
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/){: style="color:black; text-decoration: underline;"}
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra).
