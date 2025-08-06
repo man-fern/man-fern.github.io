@@ -31,9 +31,11 @@ redirect_from:
 
 ## Working Papers
 
+* [Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){: style="color:black; text-decoration: underline;"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
+* [Coca-Based Local Growth and Its Socio Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){: style="color:black; text-decoration: underline;"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González and P. Murillo-Sandoval) *Under revision, Journal of Development Economics*
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*. [Data and Code](https://fanwangecon.github.io/PrjLabEquiBFW/){: style="color:black; text-decoration: underline;"}
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){: style="color:black; text-decoration: underline;"} (with S. Bhalotra).
 * [The Natural Resource Boom and The Uneven Fall of The Labor Share](/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf){: style="color:black; text-decoration: underline;"} (with A. O. Dávila and H. Zuleta).
-* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
 * [Políticas para la Reactivación de la Demanda Laboral ante la Crisis del COVID-19: Revisión Sistemática de la Literatura](/files/Fernandez-Gonzalez-Rosero-Reactivacion-demanda-laboral.pdf){: style="color:black; text-decoration: underline;"} (with S. González and A. Rosero). Documento de Coyuntura, Misión de Empleo, (2021).
 * [Occupation Flexibility and the Gender Wage Gap in the UK](/files/Benny-Bhalotra-Fernandez-Wang-Occupation-flexibility.pdf){: style="color:black; text-decoration: underline;"} (with L. Benny, S. Bhalotra and F. Wang).
+
