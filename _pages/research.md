@@ -32,20 +32,16 @@ redirect_from:
 ## Working in Progress
 
 * Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
-* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:black;text-decoration:underline"}  
-  _(with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval)_ — *Under revision, Journal of Development Economics*  
-
-  <details>
+  
+* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:black;text-decoration:underline"}
+  (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*
+  <details style="display:inline-block;margin-left:0.5rem;">
     <summary><span class="circle">Abstract</span></summary>
-
     <blockquote>
-      <p><strong>Abstract:</strong> Illegal economies are commonly viewed as barriers to development and sources of violence.  
-      This study challenges that view by showing that illegal markets can generate broader economic and social benefits without necessarily increasing violence.  
-      We examine the economic and socio-environmental impacts of the 2010s coca-cultivation surge in Colombia—producer of two-thirds of the world’s coca and cocaine—using a difference-in-differences strategy that exploits a policy announcement which incentivised expansion in some municipalities, combined with nighttime-lights data as a proxy for economic activity.  
-      The coca boom raised annual municipal GDP by 2.8 %–10.5 % (multiplier ≈ 1.45). Despite a 250 % rise in coca cultivation, violence did not increase. We find suggestive improvements in youth educational outcomes, but no gains in tax revenues or public-goods provision.  
-      Finally, economic expansion came at an environmental cost: deforestation rose by 77.5 %.</p>
+      <p><strong>Abstract:</strong> …</p>
     </blockquote>
   </details>
+
 
 
 
