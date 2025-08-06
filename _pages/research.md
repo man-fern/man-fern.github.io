@@ -38,7 +38,7 @@ redirect_from:
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary>Abstract</summary>
     <blockquote>
-      <p><strong>Abstract:</strong> …</p>
+      <p><strong>Abstract:</strong> Illegal economies are commonly viewed as barriers to development and sources of violence. This study challenges that view by showing that illegal markets can generate broader economic and social benefits without necessarily increasing violence. We examine the economic and socio-environmental impacts of the 2010s coca cultivation surge in Colombia—the producer of two-thirds of the global coca and cocaine supply—using a difference-in-differences strategy that leverages a policy announcement that created incentives to expand coca cultivation in some municipalities, combined with nighttime lights as a proxy for economic activity. We find that the coca boom increased annual municipal GDP by 2.8% to 10.5%, with an estimated GDP multiplier of 1.45. Despite a 250% rise in coca cultivation, we find no evidence of increased violence. Suggestive evidence indicates improvements in youth educational outcomes. However, the income shock did not lead to higher tax revenues or improvements in public goods provision. Moreover, the economic expansion raised deforestation rates by 77.5%, underscoring the long-term environmental costs of the coca boom.</p>
     </blockquote>
   </details>
 
