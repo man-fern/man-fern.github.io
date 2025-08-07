@@ -73,19 +73,6 @@ redirect_from:
 
 <hr>
 
-## Book Chapters
-
-* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](https://www.elgaronline.com/edcollchap/book/9781035302765/book-part-9781035302765-9.xml){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Bardey  and A. Gravel) *Handbook on Inequality and COVID-19* (2025), Chapter 3, pp 35-52.
- 
-* [Earnings Inequality in Latin America: A Three-Decade Retrospective](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-864){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
-  
-* [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
-  
-* [Dinámicas Provinciales de Pobreza en Colombia 1993-2005](/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
-  
-* [The Right Tail and the Right Tale: Women and Skill in Mexico](/files/Bhalotra-Fernandez-Right-tail-and-the-right-tale.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and A. Venkataramani). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
-
-<hr>
 
 ## Working in Progress
 
@@ -143,3 +130,18 @@ redirect_from:
       <p><strong>Abstract:</strong> We study the effect of the upsurge of natural-resource income from the commodity-price boom of the 2000s on the functional distribution of income. To do so, we build a general-equilibrium model of Dutch disease that characterizes how natural-resource windfalls affect equilibrium factor shares. The theory suggests that the response of factor shares to exogenous changes in commodity prices depends on the relative intensity of factors in the tradable and natural-resource sectors. We construct estimates of income shares accruing to raw labor, human capital, physical capital, and natural resources, and quantify the effect of the resource boom on factor shares. For identification, we use a two-way fixed-effects strategy and a differential-exposure design to instrument commodity prices. We find that a natural-resource boom negatively impacts the total labor, human-capital, and physical-capital shares, while the raw-labor share remains unchanged. Our estimates suggest that the natural-resource boom explains nearly 25.7 percent of the global decline of the total labor share during the 2000s. We also find a redistribution effect within labor income that indicates that the fall of the labor share was unevenly distributed against human capital.</p>
     </blockquote>
   </details>
+
+<hr>
+
+## Book Chapters
+
+* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](https://www.elgaronline.com/edcollchap/book/9781035302765/book-part-9781035302765-9.xml){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Bardey  and A. Gravel) *Handbook on Inequality and COVID-19* (2025), Chapter 3, pp 35-52.
+ 
+* [Earnings Inequality in Latin America: A Three-Decade Retrospective](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-864){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
+  
+* [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
+  
+* [Dinámicas Provinciales de Pobreza en Colombia 1993-2005](/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
+  
+* [The Right Tail and the Right Tale: Women and Skill in Mexico](/files/Bhalotra-Fernandez-Right-tail-and-the-right-tale.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and A. Venkataramani). In S. Polanchek, K. Tasiramos, and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41: Emerald Publishing Group, pp. 299-341.
+
