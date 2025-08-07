@@ -28,6 +28,12 @@ redirect_from:
     </blockquote>
   </details>
 
+  <details style="display:inline-block;margin-left:0.6rem;">
+    <summary style="background:#e8f4f8;padding:2px 8px;border:1px solid #b3d9e6;border-radius:12px;cursor:pointer;font-size:0.75em;">Media</summary>
+    <ul>
+      <li><a href="https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication" target="_blank" rel="noopener">Data and Code</a></li>
+    </ul>
+  </details>
 
 * [Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America](/files/Fernandez-Messina-Skill-Premium-JDE.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
