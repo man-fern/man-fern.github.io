@@ -47,7 +47,7 @@ redirect_from:
     </blockquote>
   </details>
 
-* [Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia](https://www.tandfonline.com/doi/abs/10.1080/00220388.2014.919384){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez and X. Peña) *The Journal of Development Studies* (2014) 50(8), pp.1135-1155.
+* [Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia](/files/Fernandez-Ibanez-Pena-Adjusting-Labor-Supply.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez and X. Peña) *The Journal of Development Studies* (2014) 50(8), pp.1135-1155.
   
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
