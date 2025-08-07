@@ -137,7 +137,9 @@ redirect_from:
 
 * [The Natural Resource Boom and The Uneven Fall of The Labor Share](/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. O. Dávila and H. Zuleta).
 
-* [Políticas para la Reactivación de la Demanda Laboral ante la Crisis del COVID-19: Revisión Sistemática de la Literatura](/files/Fernandez-Gonzalez-Rosero-Reactivacion-demanda-laboral.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. González and A. Rosero). Documento de Coyuntura, Misión de Empleo, (2021).
-  
-* [Occupation Flexibility and the Gender Wage Gap in the UK](/files/Benny-Bhalotra-Fernandez-Wang-Occupation-flexibility.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with L. Benny, S. Bhalotra and F. Wang).
-
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> We study the effect of the upsurge of natural-resource income from the commodity-price boom of the 2000s on the functional distribution of income. To do so, we build a general-equilibrium model of Dutch disease that characterizes how natural-resource windfalls affect equilibrium factor shares. The theory suggests that the response of factor shares to exogenous changes in commodity prices depends on the relative intensity of factors in the tradable and natural-resource sectors. We construct estimates of income shares accruing to raw labor, human capital, physical capital, and natural resources, and quantify the effect of the resource boom on factor shares. For identification, we use a two-way fixed-effects strategy and a differential-exposure design to instrument commodity prices. We find that a natural-resource boom negatively impacts the total labor, human-capital, and physical-capital shares, while the raw-labor share remains unchanged. Our estimates suggest that the natural-resource boom explains nearly 25.7 percent of the global decline of the total labor share during the 2000s. We also find a redistribution effect within labor income that indicates that the fall of the labor share was unevenly distributed against human capital.</p>
+    </blockquote>
+  </details>
