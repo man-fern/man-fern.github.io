@@ -28,6 +28,7 @@ redirect_from:
     </blockquote>
   </details>
 
+
 * [Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America](/files/Fernandez-Messina-Skill-Premium-JDE.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -38,10 +39,31 @@ redirect_from:
   </details>
 
 * [Equity Crowdfunding: A New Phenomena](https://www.sciencedirect.com/science/article/abs/pii/S2352673416300026){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with T. Astebro and N. Vulkan) *Journal of Business Venturing Insights* (2016) Volume 5, pp 37-49.
-  
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> Crowdfunding has recently become available for entrepreneurs. Most academic studies analyse data from rewards-based (pre-selling) campaigns. In contrast, in this paper we analyse 636 campaigns, encompassing 17,188 investors and 64,831 investments between 2012 and 2015, from one of the leading European equity crowdfunding platforms. We provide descriptive statistics and carry out cross-campaign regression analysis. The descriptive statistics address its size, growth and geographic distributions in the UK. The regressions analyse which factors are associated with the probability of a successful campaign. We find some similarities and some interesting dissimilarities when comparing the descriptive statistics and regression results to research on rewards-based crowding. The data show that equity crowdfunding will likely pose great challenges to VC and business angel financiers in the near future. We discuss some research challenges and opportunities with these kind of data.</p>
+    </blockquote>
+  </details>
+
 * [Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia](https://www.tandfonline.com/doi/abs/10.1080/00220388.2014.919384){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez and X. Peña) *The Journal of Development Studies* (2014) 50(8), pp.1135-1155.
   
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> We study the use of labour markets to mitigate the impact of violent shocks on households in rural areas. Because the incidence of violent shocks is not exogenous, the analysis uses instrumental variables. As a response to violent shocks men decrease the time they devote to off-farm agricultural activities and increase off-farm non-agricultural activities, while women decrease their leisure time and increase the time they devote to household chores and childcare. Labour markets appear unable to fully absorb the additional labour supply. Policies in conflict-affected countries should aim to prevent labour markets from collapsing.</p>
+    </blockquote>
+  </details>
+
 * [Violencia y Derechos de Propiedad: El Caso de *La Violencia* en Colombia](/files/Fernandez-Violencia-derechos-propiedad.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} *Ensayos Sobre Política Económica* (2012) 30(69), pp.113-147.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #e8f4f8; padding: 6px 16px; border: 1px solid #b3d9e6; border-radius: 20px; display: inline-block; cursor: pointer; font-size: 0.9em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> Recent studies have analyzed the way in which the absence of well-defined property rights can generate the conditions for violent outbreaks to emerge. However, there are few studies that analyze the way in which violence, in the long run, can affect the structure of property rights in the regions that are affected. In this paper I investigate the effect of violence in the rates of informality in the possession of land in Colombia in the long run. By studying one of the periods of most intense violence in Colombia in the 20th century I find evidence that the municipalities affected during this period have informality rates in the possession of land which are higher in close to 2.9 percentage points (0.15 standard deviations). </p>
+    </blockquote>
+  </details>
 
 <hr>
 
