@@ -76,8 +76,22 @@ redirect_from:
 
 ## Working in Progress
 
-* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
-  
+* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> We develop an equilibrium model of the labor market to investigate the joint evolution of gender gaps in labor force participation and wages. We do this overall and by task-based occupation and skill, which allows us to study distributional effects. We structurally estimate the model using data from Mexico over a period during which women's participation increased by fifty percent. We provide new evidence that male and female labor are closer substitutes in high-paying analytical task-intensive occupations than in lower-paying manual and routine task-intensive occupations. We find that demand trends favored women, especially college-educated women. Consistent with these results, we see a widening of the gender wage gap at the lower end of the distribution, alongside a narrowing at the top. We derive own and cross-occupation wage elasticities of labor supply varying with skill, gender and time, and our counterfactual estimates demonstrate that ignoring the countervailing effects of equilibrium wage adjustments on labor supplies, as is commonly done in the literature, can be misleading. We find that increased appliance availability was the key driver of increases in the participation of unskilled women, and fertility decline a key driver for skilled women. The growth of appliances acted to widen the gender wage gap and the decline of fertility to narrow it. We also trace equilibrium impacts of growth in college attainment, which was more rapid among women, and of emigration, which was dominated by unskilled men.</p>
+    </blockquote>
+  </details>
+
+  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
+    <ul>
+      <li><a href="https://fanwangecon.github.io/PrjLabEquiBFW/" target="_blank" rel="noopener" style="color:#000000;">GitHub repository</a></li>
+    </ul>
+  </details>
+
 * [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
   
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -97,22 +111,6 @@ redirect_from:
     </ul>
   </details>
 
-* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*.
-
-  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
-    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
-    <blockquote>
-      <p><strong>Abstract:</strong> We develop an equilibrium model of the labor market to investigate the joint evolution of gender gaps in labor force participation and wages. We do this overall and by task-based occupation and skill, which allows us to study distributional effects. We structurally estimate the model using data from Mexico over a period during which women's participation increased by fifty percent. We provide new evidence that male and female labor are closer substitutes in high-paying analytical task-intensive occupations than in lower-paying manual and routine task-intensive occupations. We find that demand trends favored women, especially college-educated women. Consistent with these results, we see a widening of the gender wage gap at the lower end of the distribution, alongside a narrowing at the top. We derive own and cross-occupation wage elasticities of labor supply varying with skill, gender and time, and our counterfactual estimates demonstrate that ignoring the countervailing effects of equilibrium wage adjustments on labor supplies, as is commonly done in the literature, can be misleading. We find that increased appliance availability was the key driver of increases in the participation of unskilled women, and fertility decline a key driver for skilled women. The growth of appliances acted to widen the gender wage gap and the decline of fertility to narrow it. We also trace equilibrium impacts of growth in college attainment, which was more rapid among women, and of emigration, which was dominated by unskilled men.</p>
-    </blockquote>
-  </details>
-
-  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
-    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
-    <ul>
-      <li><a href="https://fanwangecon.github.io/PrjLabEquiBFW/" target="_blank" rel="noopener" style="color:#000000;">GitHub repository</a></li>
-    </ul>
-  </details>
-
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra).
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -121,6 +119,8 @@ redirect_from:
       <p><strong>Abstract:</strong> We investigate supply-side barriers to medical care in Colombia, where citizens have a constitutional right to health, but insurance companies impose restrictions. We use administrative data on judicial claims for health as a proxy for unmet demand. We validate this using the health services utilization register, showing that judicial claims map into large, pervasive decreases in medical consultations, procedures, hospitalizations and emergency care. This manifests in population health outcomes. We identify increases in mortality pervasive across cause, age, sex, and income, with particularly pronounced effects for certain cancers.</p>
     </blockquote>
   </details>
+
+* Local Public Goods and Property Tax Compliance: Evidence from Residential Pavement (with C. Quintana-Domeque and M. Gonzales-Navarro). *Manuscript coming soon*
 
 * [The Natural Resource Boom and The Uneven Fall of The Labor Share](/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. O. Dávila and H. Zuleta).
 
