@@ -28,7 +28,7 @@ redirect_from:
     </blockquote>
   </details>
 
-  <details style="display:inline-block;margin-left:0.6rem;">
+  <details style="display:inline-block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
     <ul>
       <li><a href="https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication" target="_blank" rel="noopener">Data and Code</a></li>
