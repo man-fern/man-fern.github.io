@@ -19,7 +19,7 @@ redirect_from:
     </blockquote>
   </details>
   
-* [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra) *The World Bank Economic Review* (2023), 09, pp. 1-32. [Data and Code](https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"}
+* [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra) *The World Bank Economic Review* (2023), 09, pp. 1-32.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
