@@ -69,8 +69,8 @@ redirect_from:
 
 ## Book Chapters
 
-* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](/files/Bardey-Fernandez-Gravel-Corobavirus-and-social-distancing.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Bardey  and A. Gravel) Forthcoming, *Handbook on Inequality and COVID-19*.
-  
+* [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](https://www.elgaronline.com/edcollchap/book/9781035302765/book-part-9781035302765-9.xml){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Bardey  and A. Gravel) *Handbook on Inequality and COVID-19* (2025), Chapter 3, pp 35-52.
+ 
 * [Earnings Inequality in Latin America: A Three-Decade Retrospective](/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
   
 * [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
