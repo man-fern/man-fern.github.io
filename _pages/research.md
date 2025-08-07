@@ -104,6 +104,9 @@ redirect_from:
     <summary style="background-color: #e8f4f8; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Media Coverage</summary>
     <ul>
       <li><a href="https://www.eltiempo.com/justicia/investigacion/bonanza-cocalera-en-colombia-llevo-a-un-aumento-del-pib-municipal-de-hasta-el-10-5-por-ciento-estudio-3373624" target="_blank" rel="noopener" style="color:#000000;">El Tiempo</a></li>
+      <li><a href="https://www.elespectador.com/colombia-20/analistas/la-economia-cocalera-y-la-politica-de-drogas" target="_blank" rel="noopener" style="color:#000000;">El Espectador</a></li>
+      <li><a href="https://english.elpais.com/international/2024-08-31/coca-provides-vital-economic-support-with-fleeting-benefits-for-colombias-most-remote-regions.html" target="_blank" rel="noopener" style="color:#000000;">El Pais</a></li>
+      <li><a href="https://open.spotify.com/episode/4DulYYNSLk6wbDM04tTtlS?si=0fOQDEmGS8SpqOeSX2XMyQ" target="_blank" rel="noopener" style="color:#000000;">A Fondo (Podcast)</a></li>
     </ul>
   </details>
 
