@@ -35,7 +35,7 @@ redirect_from:
     </ul>
   </details>
 
-* [Earnings Inequality in Latin America: A Three-Decade Retrospective](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-864){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
+* [Earnings Inequality in Latin America: A Three-Decade Retrospective](/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
