@@ -9,7 +9,7 @@ redirect_from:
 
 ## Office Hours
 
-Book a slot at the following <a href="https://calendly.com/manuelfsb" style="color:#2E5C8A;">link</a>
+Book a slot at the following <a href="https://calendly.com/manuelfsb" target="_blank" rel="noopener" style="color:#2E5C8A;">link</a>
 
 ## Teaching
 
