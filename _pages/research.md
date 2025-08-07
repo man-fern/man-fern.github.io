@@ -21,14 +21,14 @@ redirect_from:
   
 * [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra) *The World Bank Economic Review* (2023), 09, pp. 1-32. [Data and Code](https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"}
 
-  <details style="display:inline-block;margin-left:1.5rem;margin-top:-1.2em;">
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
     <blockquote>
       <p><strong>Abstract:</strong> This study estimates the relative importance of alternative supply and demand mechanisms in explaining the rise of female labor-force participation (FLFP) over the last 55 years in Mexico. The growth of FLFP in Mexico between 1960 and 2015 followed an S-shaped pattern, with a considerable acceleration during the 1990s. Using descriptive decomposition methods and a shift-share design, the study shows that, put together, supply and demand factors can account for most of the rise of FLFP over the entire period, led by increases in women’s education, declining fertility, and shifts in the occupational structure of the workforce. However, there is unexplained variation in the 1990s, when FLFP spiked.</p>
     </blockquote>
   </details>
 
-  <details style="display:inline-block;margin-left:1.5rem;margin-top:-1.2em;">
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #e8f4f8; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
     <ul>
       <li><a href="https://github.com/man-fern/Bhalotra-Fernandez-WBER-Replication" target="_blank" rel="noopener">Data and Code</a></li>
