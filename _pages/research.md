@@ -13,7 +13,7 @@ redirect_from:
 * [Herding in Equity Crowdfunding](/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with T. Astebro, S. Lovo and N. Vulkan) *The RAND Journal of Economics* (2024), 55(3), pp. 403-441.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
-    <summary style="background-color: #e8f4f8; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
     <blockquote>
       <p><strong>Abstract:</strong> We build a model of equity crowdfunding that incorporates the two major funding models: all-or-nothing (AoN) and keep-it-all (KIA). Both informed and uninformed investors arrive sequentially and rationally choose whether and how much to invest. The KIA solution turns out to be a reduced version of AoN without signalling. We test predictions using data from a leading European equity crowdfunding platform and find support. Results are consistent with rational information aggregation. However, negative information cascades may still appear. The AoN crowdfunding mechanism might therefore fail to finance a non-negligible percentage of positive NPV projects.</p>
     </blockquote>
