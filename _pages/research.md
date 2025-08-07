@@ -35,6 +35,15 @@ redirect_from:
     </ul>
   </details>
 
+* [Earnings Inequality in Latin America: A Three-Decade Retrospective](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-864){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> Latin American countries have some of the highest levels of income inequality in the world. However, earnings inequality have significantly changed over time, increasing during the 1980s and 1990s, declining sharply in the 2000s, and stagnating or even increasing in some countries since 2015. Macroeconomic instability in the region in the 1980s and early 1990s, as well as the introduction of structural reforms like trade, capital, and financial liberalization, affected the patterns of relative demand and relative earnings across skill-demographic groups in the 1990s, increasing inequality. Significant gains in educational attainment, the demographic transition, and rising female labor force participation changed the skill-demographic composition of labor supply, pushing the education and experience premiums downward, but this was not enough to counteract demand-side trends. At the turn of the 21st century, improved external conditions, driven by China’s massive increase in demand for commodities, boosted economies across Latin America, which began to grow rapidly. Growth was accompanied by a positive shift in the relative demand for less-educated workers, stronger labor institutions, rising minimum wages, and declining labor informality, a confluence of factors that reduced earnings inequality. In the aftermath of the global financial crisis, particularly after the end of the commodities price boom in 2014, economic growth decelerated, and the pace of inequality decline stagnated. There is extensive literature documenting and trying to explain the causes of recent earnings inequality dynamics in Latin America. This literature is examined in terms of themes, methodological approaches, and key findings. The focus is on earnings inequality and how developments in labor markets have shaped it.</p>
+    </blockquote>
+  </details>
+
 * [Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America](/files/Fernandez-Messina-Skill-Premium-JDE.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with J. Messina) *Journal of Development Economics* (2018), 135, pp. 555-573.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -137,8 +146,6 @@ redirect_from:
 
 * [Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?](https://www.elgaronline.com/edcollchap/book/9781035302765/book-part-9781035302765-9.xml){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Bardey  and A. Gravel) *Handbook on Inequality and COVID-19* (2025), Chapter 3, pp 35-52.
  
-* [Earnings Inequality in Latin America: A Three-Decade Retrospective](https://oxfordre.com/economics/display/10.1093/acrefore/9780190625979.001.0001/acrefore-9780190625979-e-864){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with G. Serrano). *Oxford Research Encyclopedia of Economics and Finance* (2023). Oxford University Press.
-  
 * [Productividad de los bancos](/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with D. Pérez-Reyna and H. Zuleta). In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
   
 * [Dinámicas Provinciales de Pobreza en Colombia 1993-2005](/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. M.  Ibáñez, C. Hernández, and C. Jaramillo). In F. Benito, and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
