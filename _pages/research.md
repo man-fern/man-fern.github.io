@@ -120,21 +120,21 @@ redirect_from:
     </ul>
   </details>
 
-* [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra).
-
-  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
-    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
-    <blockquote>
-      <p><strong>Abstract:</strong> We investigate supply-side barriers to medical care in Colombia, where citizens have a constitutional right to health, but insurance companies impose restrictions. We use administrative data on judicial claims for health as a proxy for unmet demand. We validate this using the health services utilization register, showing that judicial claims map into large, pervasive decreases in medical consultations, procedures, hospitalizations and emergency care. This manifests in population health outcomes. We identify increases in mortality pervasive across cause, age, sex, and income, with particularly pronounced effects for certain cancers.</p>
-    </blockquote>
-  </details>
-
 * [Local Public Goods and Property Tax Compliance: Experimental Evidence from Street Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
     <blockquote>
       <p><strong>Abstract:</strong> Developing countries may face a self-reinforcing cycle where weak tax compliance limits public goods provision, which in turn erodes citizens' incentives to pay taxes. This study tests whether improved local infrastructure can disrupt this cycle, using a randomized experiment involving first-time street paving in Acayucan, Mexico. Of 56 eligible street projects in poor neighborhoods, 28 were randomly selected for paving. A theoretical model informs our analysis, emphasizing two mechanisms: belief updating about government efficiency and reciprocity from direct benefits. We derive three testable implications: (1) belief updating should occur through exposure to street paving anywhere in the network; (2) compliance should increase among those exposed to this broader infrastructure; and (3) reciprocity should boost compliance among property owners directly benefiting from paving. Survey data support the belief-updating mechanism. Among residents initially dissatisfied with the local government, exposure to paving reduced dissatisfaction by 7.9 percentage points (ITT) and 8.8 points (LATE). No effect was observed among those initially satisfied.  Administrative tax records further show that a one standard deviation increase in exposure to paving en route to downtown increased tax compliance by 1.5 percentage points (ITT) and 2.6 points (LATE)— the latter representing a 3% rise in baseline compliance. For the reciprocity mechanism, residents living directly on paved streets increased compliance by 3.2 percentage points (ITT) and 4.8 points (LATE), the latter representing a 5.5% rise from baseline. A back-of-the-envelope estimate suggests belief updating generated four times more tax revenue than direct reciprocity.</p>
+    </blockquote>
+  </details>
+
+* [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra).
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> We investigate supply-side barriers to medical care in Colombia, where citizens have a constitutional right to health, but insurance companies impose restrictions. We use administrative data on judicial claims for health as a proxy for unmet demand. We validate this using the health services utilization register, showing that judicial claims map into large, pervasive decreases in medical consultations, procedures, hospitalizations and emergency care. This manifests in population health outcomes. We identify increases in mortality pervasive across cause, age, sex, and income, with particularly pronounced effects for certain cancers.</p>
     </blockquote>
   </details>
 
