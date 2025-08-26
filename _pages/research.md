@@ -122,7 +122,7 @@ redirect_from:
 
 * [Local Public Goods and Property Tax Compliance: Experimental Evidence from Street Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
 
-<div style="display:flex; align-items:center; gap:6px; margin-left:4.0rem; margin-top:-1.2em;">
+<div style="display:flex; align-items:center; gap:6px; margin-left:3.7rem; margin-top:-1.2em;">
 
   <details style="display:inline-block; margin:0;">
     <summary style="background-color:#ffffff; padding:2px 8px; border:1px solid #b3d9e6; 
