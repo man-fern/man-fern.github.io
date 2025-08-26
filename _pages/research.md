@@ -129,6 +129,13 @@ redirect_from:
     </blockquote>
   </details>
 
+  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">IZA WP</summary>
+    <ul>
+      <li><a href="https://www.iza.org/publications/dp/18082/local-public-goods-and-property-tax-compliance-experimental-evidence-from-street-pavement" target="_blank" rel="noopener" style="color:#000000;">Link</a></li>
+    </ul>
+  </details> 
+
 * [The Right to Health and the Health Effects of Denials](/files/Bhalotra-Fernandez-right-to-health.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra).
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
