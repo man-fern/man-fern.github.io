@@ -156,6 +156,17 @@ redirect_from:
     </blockquote>
   </details>
 
+
+* [US Presidential Party Switches Are Mirrored in Global Maternal Mortality](/files/Bhalotra-Muhlrad-Clarke-Fernandez-Global-gag-rule.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with H. Muhlrad, S. Bhalotra, D. Clarke) — *Revise and Resubmit, BMJ Global Health*.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> The Global Gag Rule is a pro-life policy that prohibits aid to overseas non-governmental organisations offering abortion-related information or services. Since first implemented by President Reagan in 1984, it has been enacted under every Republican and revoked under every Democrat. It was tightened under President Trump and rescinded under President Biden. Using data for 1985--2019, we demonstrate that aid for family planning has been 48\% higher under Democratic presidential regimes. We estimate that a switch from Democratic to Republican party, for an aid-receiving country with above-median reliance on US family planning aid, is associated with an additional 0.6 deaths per 1,000 women, an increase of 8%. This erodes a fifth of the average worldwide decline in maternal mortality achieved since 1990.</p>
+    </blockquote>
+  </details>
+
+
 * [The Natural Resource Boom and The Uneven Fall of The Labor Share](/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. O. Dávila and H. Zuleta).
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
