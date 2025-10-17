@@ -83,7 +83,7 @@ redirect_from:
 <hr>
 
 
-## Working in Progress
+## Working Papers and Work in Progress
 
 * [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and F. Wang) — *Under revision, Journal of Political Economy*.
 
