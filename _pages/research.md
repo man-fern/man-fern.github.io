@@ -85,7 +85,7 @@ redirect_from:
 
 ## Working in Progress
 
-* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and F. Wang) *Revise and Resubmit, Journal of Political Economy*.
+* [The Distribution of the Gender Wage Gap: An Equilibrium Model](/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra and F. Wang) — *Under revision, Journal of Political Economy*.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
@@ -101,7 +101,7 @@ redirect_from:
     </ul>
   </details>
 
-* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics*{: style="margin-bottom: 0.2em;"}
+* [Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia](/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with L. Marín-Llanes, M. A. Vélez, E. Martínez-González & P. Murillo-Sandoval) — *Under revision, Journal of Development Economics.*{: style="margin-bottom: 0.2em;"}
   
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
@@ -120,7 +120,7 @@ redirect_from:
     </ul>
   </details>
 
-* [Local Public Goods and Property Tax Compliance: Experimental Evidence from Street Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with C. Quintana-Domeque and M. Gonzales-Navarro).
+* [Local Public Goods and Property Tax Compliance: Experimental Evidence from Street Pavement](/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with C. Quintana-Domeque and M. Gonzales-Navarro) — *Under revision, The Quarterly Journal of Economics*.
 
 <div style="display:flex; align-items:center; gap:6px; margin-left:3.7rem; margin-top:-1.2em;">
 
