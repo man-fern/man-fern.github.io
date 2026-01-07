@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications and Accepted Papers
 
-* [US Presidential Party Switches Are Mirrored in Global Maternal Mortality](/files/Bhalotra-Muhlrad-Clarke-Fernandez-Global-gag-rule.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with H. Muhlrad, S. Bhalotra, D. Clarke) *The RAND Journal of Economics* (2024), 55(3), pp. 403-441. — *Forthcoming, BMJ Global Health*.
+* [US Presidential Party Switches Are Mirrored in Global Maternal Mortality](/files/Bhalotra-Muhlrad-Clarke-Fernandez-Global-gag-rule.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with H. Muhlrad, S. Bhalotra, D. Clarke) *Forthcoming, BMJ Global Health*.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
