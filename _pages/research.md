@@ -10,6 +10,15 @@ redirect_from:
 
 ## Publications and Accepted Papers
 
+* [US Presidential Party Switches Are Mirrored in Global Maternal Mortality](/files/Bhalotra-Muhlrad-Clarke-Fernandez-Global-gag-rule.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with H. Muhlrad, S. Bhalotra, D. Clarke) *The RAND Journal of Economics* (2024), 55(3), pp. 403-441. — *Forthcoming, BMJ Global Health*.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> In this observational study, we provide estimates of the impact on the maternal mortality ratio of swings in U.S. aid for family planning and reproductive health driven by changes in the implementation of the Mexico City Policy—first introduced as the U.S. Policy on Population Assistance under the Reagan administration in 1984, and often referred to as the Global Gag Rule (GGR). The policy prohibits U.S. foreign assistance for family planning to overseas non-governmental organizations (NGOs) that provide, make referrals to, or promote abortion-related services or information, even when financed through non-U.S. funds. Since first implemented by President Reagan in 1984, the GGR has been enacted under every Republican president and revoked under every Democrat. The policy was tightened under President Trump in his first Presidency in 2017 and expanded to apply to all U.S. global health assistance. Using data for the period 1985-2024, covering 150 countries worldwide and using a quasi-experimental study design, we estimate that a switch from a Democratic to a Republican administration, for a country with above-median reliance on U.S. family planning aid, is associated with an additional 44.7 maternal deaths per 100,000 live births—an increase of 10.5%. This erodes roughly one-fifth of the average worldwide decline in maternal mortality achieved since 1985. Additionally, our findings offer suggestive evidence of potential mechanisms, including a reduction in contraceptive use, an increase in unmet need for contraception, and a decrease in the proportion of births attended by skilled health workers.</p>
+    </blockquote>
+  </details>
+
 * [Herding in Equity Crowdfunding](/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with T. Astebro, S. Lovo and N. Vulkan) *The RAND Journal of Economics* (2024), 55(3), pp. 403-441.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -153,16 +162,6 @@ redirect_from:
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
     <blockquote>
       <p><strong>Abstract:</strong> We investigate supply-side barriers to medical care in Colombia, where citizens have a constitutional right to health, but insurance companies impose restrictions. We use administrative data on judicial claims for health as a proxy for unmet demand. We validate this using the health services utilization register, showing that judicial claims map into large, pervasive decreases in medical consultations, procedures, hospitalizations and emergency care. This manifests in population health outcomes. We identify increases in mortality pervasive across cause, age, sex, and income, with particularly pronounced effects for certain cancers.</p>
-    </blockquote>
-  </details>
-
-
-* [US Presidential Party Switches Are Mirrored in Global Maternal Mortality](/files/Bhalotra-Muhlrad-Clarke-Fernandez-Global-gag-rule.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with H. Muhlrad, S. Bhalotra, D. Clarke) — *Revise and Resubmit, BMJ Global Health*.
-
-  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
-    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
-    <blockquote>
-      <p><strong>Abstract:</strong> The Global Gag Rule is a pro-life policy that prohibits aid to overseas non-governmental organisations offering abortion-related information or services. Since first implemented by President Reagan in 1984, it has been enacted under every Republican and revoked under every Democrat. It was tightened under President Trump and rescinded under President Biden. Using data for 1985--2019, we demonstrate that aid for family planning has been 48\% higher under Democratic presidential regimes. We estimate that a switch from Democratic to Republican party, for an aid-receiving country with above-median reliance on US family planning aid, is associated with an additional 0.6 deaths per 1,000 women, an increase of 8%. This erodes a fifth of the average worldwide decline in maternal mortality achieved since 1990.</p>
     </blockquote>
   </details>
 
