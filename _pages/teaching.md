@@ -18,7 +18,7 @@ Book a slot at the following <a href="https://calendly.com/manuelfsb" target="_b
   <details style="display:block;margin-left:1.5rem;margin-top:-1.0em;">
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Syllabus (Spanish)</summary>
     <ul>
-      <li><a href="/files/syllabus_Ec_Avanzada_20252.pdf" target="_blank" rel="noopener" style="color:#000000;">2025-2</a></li>
+      <li><a href="/files/syllabus_Ec_Avanzada_20261.pdf" target="_blank" rel="noopener" style="color:#000000;">2025-2</a></li>
     </ul>
   </details>
 
