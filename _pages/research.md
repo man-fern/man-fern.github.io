@@ -27,6 +27,13 @@ redirect_from:
       <p><strong>Abstract:</strong> We build a model of equity crowdfunding that incorporates the two major funding models: all-or-nothing (AoN) and keep-it-all (KIA). Both informed and uninformed investors arrive sequentially and rationally choose whether and how much to invest. The KIA solution turns out to be a reduced version of AoN without signalling. We test predictions using data from a leading European equity crowdfunding platform and find support. Results are consistent with rational information aggregation. However, negative information cascades may still appear. The AoN crowdfunding mechanism might therefore fail to finance a non-negligible percentage of positive NPV projects.</p>
     </blockquote>
   </details>
+
+  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
+    <ul>
+      <li><a href="https://github.com/man-fern/Bhalotra-et-al-BMJ-replicationPackage" target="_blank" rel="noopener" style="color:#000000;">GitHub repository</a></li>
+    </ul>
+  </details>  
   
 * [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra) *The World Bank Economic Review* (2024), 38(2), pp. 319-350.
 
@@ -162,6 +169,16 @@ redirect_from:
     <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
     <blockquote>
       <p><strong>Abstract:</strong> We investigate supply-side barriers to medical care in Colombia, where citizens have a constitutional right to health, but insurance companies impose restrictions. We use administrative data on judicial claims for health as a proxy for unmet demand. We validate this using the health services utilization register, showing that judicial claims map into large, pervasive decreases in medical consultations, procedures, hospitalizations and emergency care. This manifests in population health outcomes. We identify increases in mortality pervasive across cause, age, sex, and income, with particularly pronounced effects for certain cancers.</p>
+    </blockquote>
+  </details>
+
+
+* [The Long Shade of Labor Informality](/files/Alvarez-Becerra-Fernandez-The-Long-Shade-of-Labor-Informality.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with A. Álvarez and O. Becerra) — *Revision requested, World Development.*.
+
+  <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Abstract</summary>
+    <blockquote>
+      <p><strong>Abstract:</strong> Countries at similar income levels exhibit markedly different rates and anatomies of labor informality. We organize these patterns around three interacting forces: a legal wedge (minimum wages and non-wage labor costs, alongside enforcement), the sectoral productivity and composition, and the private value of formality (coverage, portability, and contract enforceability). A parsimonious model yields sharp “thin-margin’’ predictions: effects concentrate where earnings cluster near the minimum legal standards. Evidence from a cross-country, country–sector panel supports the framework—legal and enforcement effects are largest where thin-margin exposure is high; higher private value lowers informality and dampens wedge effects; and composition, especially within services, conditions aggregates. The results reconcile disparate findings and imply targeted policy: align enforcement with thin-margin exposure, raise the private value of formality via low-friction administration and portability, and pursue sectoral paths that expand formal-leaning activities.</p>
     </blockquote>
   </details>
 
