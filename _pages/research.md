@@ -19,6 +19,13 @@ redirect_from:
     </blockquote>
   </details>
 
+  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
+    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
+    <ul>
+      <li><a href="https://github.com/man-fern/Bhalotra-et-al-BMJ-replicationPackage" target="_blank" rel="noopener" style="color:#000000;">GitHub repository</a></li>
+    </ul>
+  </details>  
+
 * [Herding in Equity Crowdfunding](/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with T. Astebro, S. Lovo and N. Vulkan) *The RAND Journal of Economics* (2024), 55(3), pp. 403-441.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
@@ -28,13 +35,7 @@ redirect_from:
     </blockquote>
   </details>
 
-  <details style="display:block;margin-left:5.5rem;margin-top:-1.6em;">
-    <summary style="background-color: #ffffff; padding: 2px 8px; border: 1px solid #b3d9e6; border-radius: 12px; display: inline-block; cursor: pointer; font-size: 0.75em;">Data and Code</summary>
-    <ul>
-      <li><a href="https://github.com/man-fern/Bhalotra-et-al-BMJ-replicationPackage" target="_blank" rel="noopener" style="color:#000000;">GitHub repository</a></li>
-    </ul>
-  </details>  
-  
+ 
 * [The Rise in Women&#39;s Labour Force Participation in Mexico- Supply vs Demand Factors](/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf){:style="color:#2E5C8A;text-decoration:underline" target="_blank" rel="noopener"} (with S. Bhalotra) *The World Bank Economic Review* (2024), 38(2), pp. 319-350.
 
   <details style="display:block;margin-left:1.5rem;margin-top:-1.2em;">
