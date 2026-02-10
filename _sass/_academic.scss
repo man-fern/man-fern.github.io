@@ -4,24 +4,154 @@
 
 $academic-link-color: #2E5C8A;
 $details-border-color: #b3d9e6;
+$divider-color: #333333;
 
-/* Paper/publication links */
+/* ---- Paper/publication links (used on about, blogs, teaching) ---- */
 .paper-link {
   color: $academic-link-color;
   text-decoration: underline;
 }
 
-/* Details/summary toggle for abstracts, data & code, media, syllabi */
-.abstract-details {
-  display: block;
-  margin-left: 1.5rem;
-  margin-top: -1.2em;
+/* ---- Research page: card-style paper entries ---- */
+
+.paper-entry {
+  padding: 1.5rem 0 1.2rem;
 }
 
-.nested-details {
+.paper-title {
+  font-size: 1.35em;
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0 0 0.4em;
+  font-family: Georgia, "Times New Roman", serif;
+
+  a {
+    color: #333;
+    text-decoration: none;
+
+    &:hover {
+      color: $academic-link-color;
+    }
+  }
+}
+
+.paper-authors {
+  font-size: 0.95em;
+  color: #555;
+  margin: 0 0 0.25em;
+}
+
+.paper-journal {
+  font-size: 0.95em;
+  color: #555;
+  margin: 0 0 0.8em;
+  font-style: italic;
+}
+
+.paper-status {
+  font-style: normal;
+  font-weight: 500;
+}
+
+/* Row of pill buttons at the bottom of each paper */
+.paper-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: flex-start;
+}
+
+.paper-btn {
+  background-color: #ffffff;
+  padding: 5px 18px;
+  border: 1.5px solid #333;
+  border-radius: 20px;
+  display: inline-block;
+  font-size: 0.85em;
+  color: #333;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.15s, color 0.15s;
+  font-family: $sans-serif;
+
+  &:hover {
+    background-color: #333;
+    color: #fff;
+  }
+}
+
+/* Details/summary styled as pill buttons */
+.paper-detail {
+  display: inline-block;
+  margin: 0;
+
+  summary {
+    background-color: #ffffff;
+    padding: 5px 18px;
+    border: 1.5px solid #333;
+    border-radius: 20px;
+    display: inline-block;
+    font-size: 0.85em;
+    color: #333;
+    cursor: pointer;
+    list-style: none;
+    font-family: $sans-serif;
+    transition: background-color 0.15s, color 0.15s;
+
+    &:hover {
+      background-color: #333;
+      color: #fff;
+    }
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  blockquote {
+    margin-top: 0.8em;
+    font-size: 0.9em;
+    line-height: 1.5;
+    color: #444;
+    border-left: 3px solid $details-border-color;
+    padding-left: 1em;
+  }
+
+  ul {
+    margin-top: 0.6em;
+    padding-left: 1.2em;
+    font-size: 0.9em;
+  }
+}
+
+/* Thick divider between papers */
+.paper-divider {
+  border: none;
+  border-top: 2.5px solid $divider-color;
+  margin: 0;
+}
+
+/* Section headers */
+.research-section {
+  font-size: 1.1em;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: #333;
+  margin: 2rem 0 0.5rem;
+  padding-bottom: 0.3rem;
+}
+
+/* ---- Teaching page styles ---- */
+
+.office-hours-link {
+  color: $academic-link-color;
+}
+
+.teaching-details {
   display: block;
-  margin-left: 5.5rem;
-  margin-top: -1.6em;
+  margin-left: 1.5rem;
+  margin-top: -1.0em;
 }
 
 .details-btn {
@@ -34,40 +164,6 @@ $details-border-color: #b3d9e6;
   font-size: 0.75em;
 }
 
-/* Links inside details (repo links, media links, syllabus links) */
 .repo-link {
   color: #000000;
-}
-
-/* Inline details + badge row (e.g. Abstract + IZA WP side by side) */
-.details-row {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  margin-left: 3.7rem;
-  margin-top: -1.2em;
-}
-
-.details-badge {
-  background-color: #ffffff;
-  padding: 2px 8px;
-  border: 1px solid $details-border-color;
-  border-radius: 12px;
-  display: inline-block;
-  font-size: 0.75em;
-  color: #000000;
-  text-decoration: none;
-  cursor: pointer;
-}
-
-/* Calendly / office hours link */
-.office-hours-link {
-  color: $academic-link-color;
-}
-
-/* Teaching details with slightly different top margin */
-.teaching-details {
-  display: block;
-  margin-left: 1.5rem;
-  margin-top: -1.0em;
 }
