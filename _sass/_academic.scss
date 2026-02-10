@@ -6,7 +6,23 @@ $academic-link-color: #2E5C8A;
 $details-border-color: #b3d9e6;
 $divider-color: #333333;
 
-/* ---- Paper/publication links (used on about, blogs, teaching) ---- */
+/* ---- Landing page intro ---- */
+.about-intro {
+  font-size: 1.15em;
+  line-height: 1.6;
+  color: #333;
+
+  a {
+    color: $academic-link-color;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+
+/* ---- Paper/publication links (used on blogs) ---- */
 .paper-link {
   color: $academic-link-color;
   text-decoration: underline;
