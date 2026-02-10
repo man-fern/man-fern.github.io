@@ -1,0 +1,73 @@
+/* ==========================================================================
+   Academic page styles
+   ========================================================================== */
+
+$academic-link-color: #2E5C8A;
+$details-border-color: #b3d9e6;
+
+/* Paper/publication links */
+.paper-link {
+  color: $academic-link-color;
+  text-decoration: underline;
+}
+
+/* Details/summary toggle for abstracts, data & code, media, syllabi */
+.abstract-details {
+  display: block;
+  margin-left: 1.5rem;
+  margin-top: -1.2em;
+}
+
+.nested-details {
+  display: block;
+  margin-left: 5.5rem;
+  margin-top: -1.6em;
+}
+
+.details-btn {
+  background-color: #ffffff;
+  padding: 2px 8px;
+  border: 1px solid $details-border-color;
+  border-radius: 12px;
+  display: inline-block;
+  cursor: pointer;
+  font-size: 0.75em;
+}
+
+/* Links inside details (repo links, media links, syllabus links) */
+.repo-link {
+  color: #000000;
+}
+
+/* Inline details + badge row (e.g. Abstract + IZA WP side by side) */
+.details-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-left: 3.7rem;
+  margin-top: -1.2em;
+}
+
+.details-badge {
+  background-color: #ffffff;
+  padding: 2px 8px;
+  border: 1px solid $details-border-color;
+  border-radius: 12px;
+  display: inline-block;
+  font-size: 0.75em;
+  color: #000000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Calendly / office hours link */
+.office-hours-link {
+  color: $academic-link-color;
+}
+
+/* Teaching details with slightly different top margin */
+.teaching-details {
+  display: block;
+  margin-left: 1.5rem;
+  margin-top: -1.0em;
+}

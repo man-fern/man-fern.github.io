@@ -19,7 +19,7 @@ Contact Information
 
 Current Position
 ======
-* Assistant Professor, Department of Economics, Universidad de los Andes, 2019-present.
+* Associate Professor, Department of Economics, Universidad de los Andes, 2019-present.
 
 Education
 ======
@@ -42,15 +42,33 @@ Previous Positions
 
 Publications and Accepted Papers
 ======
-* Astebro, T., Fernández, M., Lovo, S., and Vulkan, N. Herding in Equity Crowdfunding *The RAND Journal of Economics*, forthcoming.
 
-* Fernández, M. and Messina, J. (2018) Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America. *Journal of Development Economics*, 135, pp. 555-573. 
+* Bhalotra, S., Muhlrad, H., Clarke, D. and Fernández, M. US Presidential Party Switches Are Mirrored in Global Maternal Mortality. *BMJ Global Health*, forthcoming.
 
-* Vulkan, N., Astebro, T. and Fernández, M. (2016) Equity Crowdfunding: A New Phenomena. *Journal of Business Venturing Insights*,  Volume 5, pp 37-49.     
+* Astebro, T., Fernández, M., Lovo, S. and Vulkan, N. (2024) Herding in Equity Crowdfunding. *The RAND Journal of Economics*, 55(3), pp. 403-441.
 
-* Fernández, M., Ibáñez, A. M. and Peña, X. (2014) Adjusting the Labor Supply to Mitigate Violent Shocks: Evidence from Rural Colombia. *The Journal of Development Studies*, 50(8), pp.1135-1155.
+* Bhalotra, S. and Fernández, M. (2024) The Rise in Women's Labour Force Participation in Mexico: Supply vs Demand Factors. *The World Bank Economic Review*, 38(2), pp. 319-350.
 
-* Fernández, M. (2012) Violencia y Derechos de Propiedad: El Caso de *La Violencia* en Colombia. *Ensayos Sobre Política Económica*, 30(69), pp.113-147. 
+* Fernández, M. and Serrano, G. (2024) Earnings Inequality in Latin America: A Three-Decade Retrospective. *Oxford Research Encyclopedia of Economics and Finance*. Oxford University Press.
+
+* Fernández, M. and Messina, J. (2018) Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America. *Journal of Development Economics*, 135, pp. 555-573.
+
+* Vulkan, N., Astebro, T. and Fernández, M. (2016) Equity Crowdfunding: A New Phenomena. *Journal of Business Venturing Insights*, Volume 5, pp 37-49.
+
+* Fernández, M., Ibáñez, A. M. and Peña, X. (2014) Adjusting the Labor Supply to Mitigate Violent Shocks: Evidence from Rural Colombia. *The Journal of Development Studies*, 50(8), pp. 1135-1155.
+
+* Fernández, M. (2012) Violencia y Derechos de Propiedad: El Caso de La Violencia en Colombia. *Ensayos Sobre Política Económica*, 30(69), pp. 113-147.
+
+Book Chapters
+======
+
+* Bardey, D., Fernández, M. and Gravel, A. (2025) Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run? *Handbook on Inequality and COVID-19*, Chapter 3, pp 35-52.
+
+* Fernández, M., Pérez-Reyna, D. and Zuleta, H. (2022) Productividad de los bancos. In H. J. Gómez, A. Vera and M. Germán, eds. *Lecturas Sobre Moneda y Banca en Colombia*, Asobancaria, pp. 222-271.
+
+* Fernández, M., Ibáñez, A. M., Hernández, C. and Jaramillo, C. Dinámicas Provinciales de Pobreza en Colombia 1993-2005. In F. Benito and J. Berdegué, eds. *Los Dilemas Territoriales del Desarrollo en América Latina*, Universidad de los Andes, pp. 187-210.
+
+* Bhalotra, S., Fernández, M. and Venkataramani, A. The Right Tail and the Right Tale: Women and Skill in Mexico. In S. Polanchek, K. Tasiramos and K. Zimmerman, eds. *Gender Convergence in the Labor Market*. Research in Labor Economics, Vol 41, Emerald Publishing Group, pp. 299-341.
 
 Professional Activities
 ======
