@@ -115,6 +115,8 @@ redirect_from:
   </div>
 </div>
 
+<hr>
+
 <p class="research-section">Working Papers and Work in Progress</p>
 
 <hr class="paper-divider">
@@ -205,6 +207,8 @@ redirect_from:
     </details>
   </div>
 </div>
+
+<hr>
 
 <p class="research-section">Book Chapters</p>
 
