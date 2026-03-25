@@ -11,7 +11,7 @@ redirect_from:
 
 <hr class="paper-divider">
 <div class="paper-entry">
-  <h3 class="paper-title">US Presidential Party Switches Are Mirrored in Global Maternal Mortality</h3>
+  <h3 class="paper-title"><a href="/files/Bhalotra et al. - 2026 - US Presidential Party switches are mirrored in global maternal mortality.pdf" target="_blank" rel="noopener">US Presidential Party Switches are Mirrored in Global Maternal Mortality</a></h3>
   <p class="paper-authors">with H. Muhlrad, S. Bhalotra, D. Clarke</p>
   <p class="paper-journal">Forthcoming, <em>BMJ Global Health</em></p>
   <div class="paper-buttons">
