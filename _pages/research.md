@@ -1,4 +1,4 @@
----
+﻿---
 layout: archive
 title: "Research"
 permalink: /research/
@@ -9,7 +9,6 @@ redirect_from:
 
 <p class="research-section">Publications and Accepted Papers</p>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Bhalotra et al. - 2026 - US Presidential Party switches are mirrored in global maternal mortality.pdf" target="_blank" rel="noopener">US Presidential Party Switches are Mirrored in Global Maternal Mortality</a></h3>
   <p class="paper-authors">with H. Muhlrad, S. Bhalotra, D. Clarke</p>
@@ -17,7 +16,7 @@ redirect_from:
   <div class="paper-buttons">
     <details class="paper-detail">
       <summary>Abstract</summary>
-      <blockquote><p>In this observational study, we provide estimates of the impact on the maternal mortality ratio of swings in US aid for family planning and reproductive health driven by changes in the implementation of the Mexico City Policy—first introduced as the US Policy on Population Assistance under the Reagan administration in 1984 and often referred to as the Global Gag Rule (GGR). The policy prohibits US foreign assistance for family planning to overseas non-governmental organisations that provide, make referrals to or promote abortion-related services or information, even when financed through non-US funds. Since first implemented by President Reagan in 1984, the GGR has been enacted under every Republican president and revoked under every Democrat. The policy was tightened under President Trump in his first presidency in 2017 and expanded to apply to all US global health assistance. Using data for the period 1985–2023, covering 150 countries worldwide and using a quasi-experimental study design, we estimate that a switch from a Democratic to a Republican administration, for a country with above median reliance on US family planning aid, is associated with an additional 44.7 maternal deaths per 100 000 live births—an increase of 10.5%. This erodes roughly one-fifth of the average worldwide decline in maternal mortality achieved since 1985. Additionally, our findings offer suggestive evidence of potential mechanisms including a reduction in contraceptive use, an increase in unmet need for contraception and a decrease in the proportion of births attended by skilled health workers.</p></blockquote>
+      <blockquote><p>In this observational study, we provide estimates of the impact on the maternal mortality ratio of swings in US aid for family planning and reproductive health driven by changes in the implementation of the Mexico City Policyâ€”first introduced as the US Policy on Population Assistance under the Reagan administration in 1984 and often referred to as the Global Gag Rule (GGR). The policy prohibits US foreign assistance for family planning to overseas non-governmental organisations that provide, make referrals to or promote abortion-related services or information, even when financed through non-US funds. Since first implemented by President Reagan in 1984, the GGR has been enacted under every Republican president and revoked under every Democrat. The policy was tightened under President Trump in his first presidency in 2017 and expanded to apply to all US global health assistance. Using data for the period 1985â€“2023, covering 150 countries worldwide and using a quasi-experimental study design, we estimate that a switch from a Democratic to a Republican administration, for a country with above median reliance on US family planning aid, is associated with an additional 44.7 maternal deaths per 100 000 live birthsâ€”an increase of 10.5%. This erodes roughly one-fifth of the average worldwide decline in maternal mortality achieved since 1985. Additionally, our findings offer suggestive evidence of potential mechanisms including a reduction in contraceptive use, an increase in unmet need for contraception and a decrease in the proportion of births attended by skilled health workers.</p></blockquote>
     </details>
     <a href="https://github.com/man-fern/Bhalotra-et-al-BMJ-replicationPackage" target="_blank" rel="noopener" class="paper-btn">Data and Code</a>
     <details class="paper-detail">
@@ -30,7 +29,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Astebro-Fernandez-Lovo-Vulkan-Herding-in-equity-crowdfounding.pdf" target="_blank" rel="noopener">Herding in Equity Crowdfunding</a></h3>
   <p class="paper-authors">with T. Astebro, S. Lovo and N. Vulkan</p>
@@ -43,7 +41,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Bhalotra-Fernandez-Mexico-FLFP-supply-demand.pdf" target="_blank" rel="noopener">The Rise in Women&#39;s Labour Force Participation in Mexico: Supply vs Demand Factors</a></h3>
   <p class="paper-authors">with S. Bhalotra</p>
@@ -57,7 +54,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-Serrano-Earnings-inequality-in-Latin America-A-three-decade-retrospective.pdf" target="_blank" rel="noopener">Earnings Inequality in Latin America: A Three-Decade Retrospective</a></h3>
   <p class="paper-authors">with G. Serrano</p>
@@ -70,7 +66,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-Messina-Skill-Premium-JDE.pdf" target="_blank" rel="noopener">Skill Premium, Labor Supply and Changes in the Structure of Wages in Latin America</a></h3>
   <p class="paper-authors">with J. Messina</p>
@@ -83,7 +78,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="https://www.sciencedirect.com/science/article/abs/pii/S2352673416300026" target="_blank" rel="noopener">Equity Crowdfunding: A New Phenomena</a></h3>
   <p class="paper-authors">with T. Astebro and N. Vulkan</p>
@@ -96,7 +90,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-Ibanez-Pena-Adjusting-Labor-Supply.pdf" target="_blank" rel="noopener">Adjusting the Labour Supply to Mitigate Violent Shocks: Evidence from Rural Colombia</a></h3>
   <p class="paper-authors">with A. M. Ib&aacute;&ntilde;ez and X. Pe&ntilde;a</p>
@@ -109,7 +102,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-Violencia-derechos-propiedad.pdf" target="_blank" rel="noopener">Violencia y Derechos de Propiedad: El Caso de <em>La Violencia</em> en Colombia</a></h3>
   <p class="paper-authors">Manuel Fern&aacute;ndez</p>
@@ -126,7 +118,6 @@ redirect_from:
 
 <p class="research-section">Working Papers and Work in Progress</p>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Bhalotra-Fernandez-Wang-FLFP-eq-model.pdf" target="_blank" rel="noopener">The Distribution of the Gender Wage Gap: An Equilibrium Model</a></h3>
   <p class="paper-authors">with S. Bhalotra and F. Wang</p>
@@ -140,7 +131,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Marin-Fernandez-Velez-Martinez-Murillo-coca-based-local-growth-2025.pdf" target="_blank" rel="noopener">Coca-Based Local Growth and Its Socio-Environmental Impacts in Colombia</a></h3>
   <p class="paper-authors">with L. Mar&iacute;n-Llanes, M. A. V&eacute;lez, E. Mart&iacute;nez-Gonz&aacute;lez &amp; P. Murillo-Sandoval</p>
@@ -148,7 +138,7 @@ redirect_from:
   <div class="paper-buttons">
     <details class="paper-detail">
       <summary>Abstract</summary>
-      <blockquote><p>Illegal economies are commonly viewed as barriers to development and sources of violence. This study challenges that view by showing that illegal markets can generate broader economic and social benefits without necessarily increasing violence. We examine the economic and socio-environmental impacts of the 2010s coca cultivation surge in Colombia—the producer of two-thirds of the global coca and cocaine supply—using a difference-in-differences strategy that leverages a policy announcement that created incentives to expand coca cultivation in some municipalities, combined with nighttime lights as a proxy for economic activity. We find that the coca boom increased annual municipal GDP by 2.8% to 10.5%, with an estimated GDP multiplier of 1.45. Despite a 250% rise in coca cultivation, we find no evidence of increased violence. Suggestive evidence indicates improvements in youth educational outcomes. However, the income shock did not lead to higher tax revenues or improvements in public goods provision. Moreover, the economic expansion raised deforestation rates by 77.5%, underscoring the long-term environmental costs of the coca boom.</p></blockquote>
+      <blockquote><p>Illegal economies are commonly viewed as barriers to development and sources of violence. This study challenges that view by showing that illegal markets can generate broader economic and social benefits without necessarily increasing violence. We examine the economic and socio-environmental impacts of the 2010s coca cultivation surge in Colombiaâ€”the producer of two-thirds of the global coca and cocaine supplyâ€”using a difference-in-differences strategy that leverages a policy announcement that created incentives to expand coca cultivation in some municipalities, combined with nighttime lights as a proxy for economic activity. We find that the coca boom increased annual municipal GDP by 2.8% to 10.5%, with an estimated GDP multiplier of 1.45. Despite a 250% rise in coca cultivation, we find no evidence of increased violence. Suggestive evidence indicates improvements in youth educational outcomes. However, the income shock did not lead to higher tax revenues or improvements in public goods provision. Moreover, the economic expansion raised deforestation rates by 77.5%, underscoring the long-term environmental costs of the coca boom.</p></blockquote>
     </details>
     <details class="paper-detail">
       <summary>Media</summary>
@@ -162,7 +152,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-GonzalezNavarro-QuintanaDomeque-Propety-tax-compliance.pdf" target="_blank" rel="noopener">Local Public Goods and Property Tax Compliance: Experimental Evidence from Street Pavement</a></h3>
   <p class="paper-authors">with C. Quintana-Domeque and M. Gonzales-Navarro</p>
@@ -176,7 +165,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Bhalotra-Fernandez-right-to-health.pdf" target="_blank" rel="noopener">The Right to Health and the Health Effects of Denials</a></h3>
   <p class="paper-authors">with S. Bhalotra</p>
@@ -189,7 +177,6 @@ redirect_from:
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Alvarez-Becerra-Fernandez-The-Long-Shade-of-Labor-Informality.pdf" target="_blank" rel="noopener">The Long Shade of Labor Informality</a></h3>
   <p class="paper-authors">with A. &Aacute;lvarez and O. Becerra</p>
@@ -197,12 +184,11 @@ redirect_from:
   <div class="paper-buttons">
     <details class="paper-detail">
       <summary>Abstract</summary>
-      <blockquote><p>Countries at similar income levels exhibit markedly different rates and anatomies of labor informality. We organize these patterns around three interacting forces: a legal wedge (minimum wages and non-wage labor costs, alongside enforcement), the sectoral productivity and composition, and the private value of formality (coverage, portability, and contract enforceability). A parsimonious model yields sharp "thin-margin'' predictions: effects concentrate where earnings cluster near the minimum legal standards. Evidence from a cross-country, country–sector panel supports the framework—legal and enforcement effects are largest where thin-margin exposure is high; higher private value lowers informality and dampens wedge effects; and composition, especially within services, conditions aggregates. The results reconcile disparate findings and imply targeted policy: align enforcement with thin-margin exposure, raise the private value of formality via low-friction administration and portability, and pursue sectoral paths that expand formal-leaning activities.</p></blockquote>
+      <blockquote><p>Countries at similar income levels exhibit markedly different rates and anatomies of labor informality. We organize these patterns around three interacting forces: a legal wedge (minimum wages and non-wage labor costs, alongside enforcement), the sectoral productivity and composition, and the private value of formality (coverage, portability, and contract enforceability). A parsimonious model yields sharp "thin-margin'' predictions: effects concentrate where earnings cluster near the minimum legal standards. Evidence from a cross-country, countryâ€“sector panel supports the frameworkâ€”legal and enforcement effects are largest where thin-margin exposure is high; higher private value lowers informality and dampens wedge effects; and composition, especially within services, conditions aggregates. The results reconcile disparate findings and imply targeted policy: align enforcement with thin-margin exposure, raise the private value of formality via low-friction administration and portability, and pursue sectoral paths that expand formal-leaning activities.</p></blockquote>
     </details>
   </div>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Davila-Fernandez-Zuleta-Natural-resource-boom.pdf" target="_blank" rel="noopener">The Natural Resource Boom and The Uneven Fall of The Labor Share</a></h3>
   <p class="paper-authors">with A. O. D&aacute;vila and H. Zuleta</p>
@@ -219,28 +205,24 @@ redirect_from:
 
 <p class="research-section">Book Chapters</p>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="https://www.elgaronline.com/edcollchap/book/9781035302765/book-part-9781035302765-9.xml" target="_blank" rel="noopener">Coronavirus and Social Distancing: Do Non-Pharmaceutical-Interventions Work (at least) in the Short Run?</a></h3>
   <p class="paper-authors">with D. Bardey and A. Gravel</p>
   <p class="paper-journal"><em>Handbook on Inequality and COVID-19</em> (2025), Chapter 3, pp. 35-52</p>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Lecturas-Sobre-Moneda-y-Banca-en-Colombia-2022.pdf" target="_blank" rel="noopener">Productividad de los bancos</a></h3>
   <p class="paper-authors">with D. P&eacute;rez-Reyna and H. Zuleta</p>
   <p class="paper-journal">In H. J. G&oacute;mez, A. Vera and M. Germ&aacute;n, eds. <em>Lecturas Sobre Moneda y Banca en Colombia</em>, Asobancaria, pp. 222-271</p>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Fernandez-Hernandez-Ibanez-Jaramillo-Dinamicas-provinciales-pobreza-Colombia.pdf" target="_blank" rel="noopener">Din&aacute;micas Provinciales de Pobreza en Colombia 1993-2005</a></h3>
   <p class="paper-authors">with A. M. Ib&aacute;&ntilde;ez, C. Hern&aacute;ndez, and C. Jaramillo</p>
   <p class="paper-journal">In F. Benito, and J. Berdegu&eacute;, eds. <em>Los Dilemas Territoriales del Desarrollo en Am&eacute;rica Latina</em>, Universidad de los Andes, pp. 187-210</p>
 </div>
 
-<hr class="paper-divider">
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Bhalotra-Fernandez-Right-tail-and-the-right-tale.pdf" target="_blank" rel="noopener">The Right Tail and the Right Tale: Women and Skill in Mexico</a></h3>
   <p class="paper-authors">with S. Bhalotra and A. Venkataramani</p>
