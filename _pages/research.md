@@ -20,6 +20,13 @@ redirect_from:
       <blockquote><p>In this observational study, we provide estimates of the impact on the maternal mortality ratio of swings in US aid for family planning and reproductive health driven by changes in the implementation of the Mexico City Policy—first introduced as the US Policy on Population Assistance under the Reagan administration in 1984 and often referred to as the Global Gag Rule (GGR). The policy prohibits US foreign assistance for family planning to overseas non-governmental organisations that provide, make referrals to or promote abortion-related services or information, even when financed through non-US funds. Since first implemented by President Reagan in 1984, the GGR has been enacted under every Republican president and revoked under every Democrat. The policy was tightened under President Trump in his first presidency in 2017 and expanded to apply to all US global health assistance. Using data for the period 1985–2023, covering 150 countries worldwide and using a quasi-experimental study design, we estimate that a switch from a Democratic to a Republican administration, for a country with above median reliance on US family planning aid, is associated with an additional 44.7 maternal deaths per 100 000 live births—an increase of 10.5%. This erodes roughly one-fifth of the average worldwide decline in maternal mortality achieved since 1985. Additionally, our findings offer suggestive evidence of potential mechanisms including a reduction in contraceptive use, an increase in unmet need for contraception and a decrease in the proportion of births attended by skilled health workers.</p></blockquote>
     </details>
     <a href="https://github.com/man-fern/Bhalotra-et-al-BMJ-replicationPackage" target="_blank" rel="noopener" class="paper-btn">Data and Code</a>
+    <details class="paper-detail">
+      <summary>Media</summary>
+      <ul>
+        <li><a href="https://www.theguardian.com/us-news/2026/mar/25/maternal-mortality-increases-trump-republicans" target="_blank" rel="noopener">The Guardian</a></li>
+        <li><a href="https://bmjgroup.com/11-rise-in-maternal-deaths-in-us-aid-dependent-countries-under-republican-administrations/" target="_blank" rel="noopener">BMJ Group</a></li>
+      </ul>
+    </details>
   </div>
 </div>
 
