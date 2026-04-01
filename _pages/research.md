@@ -180,7 +180,7 @@ redirect_from:
 <div class="paper-entry">
   <h3 class="paper-title"><a href="/files/Alvarez-Becerra-Fernandez-The-Long-Shade-of-Labor-Informality.pdf" target="_blank" rel="noopener">The Long Shade of Labor Informality</a></h3>
   <p class="paper-authors">with A. &Aacute;lvarez and O. Becerra</p>
-  <p class="paper-journal"><span class="paper-status">Revision requested</span>, <em>World Development</em></p>
+  <p class="paper-journal"><span class="paper-status">Revision requested</span>, <em>Labour Economics</em></p>
   <div class="paper-buttons">
     <details class="paper-detail">
       <summary>Abstract</summary>
