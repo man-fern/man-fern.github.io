@@ -11,7 +11,7 @@ redirect_from:
 
 <hr class="paper-divider">
 <div class="paper-entry">
-  <p class="paper-journal">Book a slot at the following <a href="https://calendly.com/manuelfsb" target="_blank" rel="noopener" class="paper-link">link</a></p>
+  <p class="paper-journal">Book a slot at the following <a href="https://calendly.com/manuelfsb/horario-de-atencion" target="_blank" rel="noopener" class="paper-link">link</a></p>
 </div>
 
 <hr>
