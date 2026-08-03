@@ -26,7 +26,7 @@ redirect_from:
     <details class="paper-detail">
       <summary>Syllabus (Spanish)</summary>
       <ul>
-        <li><a href="/files/syllabus_Ec_Avanzada_20261.pdf" target="_blank" rel="noopener">2026-1</a></li>
+        <li><a href="/files/syllabus_Ec_Avanzada_20262.pdf" target="_blank" rel="noopener">2026-2</a></li>
       </ul>
     </details>
   </div>
@@ -40,7 +40,7 @@ redirect_from:
     <details class="paper-detail">
       <summary>Syllabus (Spanish)</summary>
       <ul>
-        <li><a href="/files/syllabus_Intro_Macro_20261.pdf" target="_blank" rel="noopener">2026-1</a></li>
+        <li><a href="/files/syllabus_Intro_Macro_20262.pdf" target="_blank" rel="noopener">2026-2</a></li>
       </ul>
     </details>
   </div>
@@ -54,7 +54,7 @@ redirect_from:
     <details class="paper-detail">
       <summary>Syllabus (Spanish)</summary>
       <ul>
-        <li><a href="/files/syllabus_Seminario_Tesis_PEG-2024-2.pdf" target="_blank" rel="noopener">2024-2</a></li>
+        <li><a href="/files/syllabus_Seminario_Tesis_PEG-2026-2.pdf" target="_blank" rel="noopener">2026-2</a></li>
       </ul>
     </details>
   </div>
